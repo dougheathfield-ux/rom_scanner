@@ -1,0 +1,518 @@
+===========================================
+       ROM VERIFICATION & BUILD REPORT     
+===========================================
+Total Sets Processed : 508
+Complete Sets        : 506
+Incomplete / Missing : 2
+===========================================
+
+DETAILED RESULTS:
+-------------------------------------------
+[COMPLETE] Cakewalk (USA).zip (Cakewalk (USA)) - Missing ROMs: 0
+[COMPLETE] Cosmic Swarm (USA).zip (Cosmic Swarm (USA)) - Missing ROMs: 0
+[COMPLETE] Smurf - Rescue in Gargamel's Castle (USA).zip (Smurf - Rescue in Gargamel's Castle (USA)) - Missing ROMs: 0
+[COMPLETE] O Monstro Marinho (Europe).zip (O Monstro Marinho (Europe)) - Missing ROMs: 0
+[COMPLETE] Gauntlet (USA).zip (Gauntlet (USA)) - Missing ROMs: 0
+[COMPLETE] Sword of Saros (USA).zip (Sword of Saros (USA)) - Missing ROMs: 0
+[COMPLETE] Millipede (USA).zip (Millipede (USA)) - Missing ROMs: 0
+[COMPLETE] Jawbreaker (USA).zip (Jawbreaker (USA)) - Missing ROMs: 0
+[COMPLETE] Jungle Hunt (USA).zip (Jungle Hunt (USA)) - Missing ROMs: 0
+[COMPLETE] Master Builder (USA).zip (Master Builder (USA)) - Missing ROMs: 0
+[COMPLETE] Midnight Magic (USA).zip (Midnight Magic (USA)) - Missing ROMs: 0
+[COMPLETE] Masters of the Universe - The Power of He-Man (USA).zip (Masters of the Universe - The Power of He-Man (USA)) - Missing ROMs: 0
+[COMPLETE] Carnival (USA).zip (Carnival (USA)) - Missing ROMs: 0
+[COMPLETE] Cosmic Ark (USA).zip (Cosmic Ark (USA)) - Missing ROMs: 0
+[COMPLETE] StarMaster (USA).zip (StarMaster (USA)) - Missing ROMs: 0
+[COMPLETE] Donkey Kong (USA).zip (Donkey Kong (USA)) - Missing ROMs: 0
+[COMPLETE] Secret Quest (USA).zip (Secret Quest (USA)) - Missing ROMs: 0
+[COMPLETE] Red Sea Crossing (USA).zip (Red Sea Crossing (USA)) - Missing ROMs: 0
+[COMPLETE] Sub-Scan (USA).zip (Sub-Scan (USA)) - Missing ROMs: 0
+[COMPLETE] Surround ~ Chase (USA).zip (Surround ~ Chase (USA)) - Missing ROMs: 0
+[COMPLETE] Zoo Fun (USA).zip (Zoo Fun (USA)) - Missing ROMs: 0
+[COMPLETE] Base Attack (USA).zip (Base Attack (Europe)) - Missing ROMs: 0
+[COMPLETE] Mogul Maniac (USA).zip (Mogul Maniac (USA)) - Missing ROMs: 0
+[COMPLETE] Turmoil (USA).zip (Turmoil (USA)) - Missing ROMs: 0
+[COMPLETE] Amidar (USA).zip (Amidar (USA)) - Missing ROMs: 0
+[COMPLETE] Custer's Revenge (USA).zip (Custer's Revenge (USA)) - Missing ROMs: 0
+[COMPLETE] Mr. Do!'s Castle (USA).zip (Mr. Do!'s Castle (USA)) - Missing ROMs: 0
+[COMPLETE] Freeway (USA).zip (Freeway (USA)) - Missing ROMs: 0
+[COMPLETE] Adventure (USA).zip (Adventure (USA)) - Missing ROMs: 0
+[COMPLETE] Fast Food (USA).zip (Fast Food (USA)) - Missing ROMs: 0
+[COMPLETE] RealSports Football (USA).zip (RealSports Football (USA, Europe) (En,Fr,De,Es,It)) - Missing ROMs: 0
+[COMPLETE] Piece o' Cake (USA).zip (Piece o' Cake (USA)) - Missing ROMs: 0
+[COMPLETE] Entombed (USA).zip (Entombed (USA)) - Missing ROMs: 0
+[COMPLETE] Reactor (USA).zip (Reactor (USA)) - Missing ROMs: 0
+[COMPLETE] Pressure Cooker (USA).zip (Pressure Cooker (USA)) - Missing ROMs: 0
+[COMPLETE] Armor Ambush (USA).zip (Armor Ambush (USA)) - Missing ROMs: 0
+[COMPLETE] MotoRodeo (USA).zip (MotoRodeo (USA)) - Missing ROMs: 0
+[COMPLETE] Time Pilot (USA).zip (Time Pilot (USA)) - Missing ROMs: 0
+[COMPLETE] Bermuda Triangle (USA).zip (Bermuda Triangle (USA)) - Missing ROMs: 0
+[COMPLETE] Gas Hog (USA).zip (Gas Hog (USA)) - Missing ROMs: 0
+[COMPLETE] River Raid (USA).zip (River Raid (USA)) - Missing ROMs: 0
+[COMPLETE] Crackpots (USA).zip (Crackpots (USA)) - Missing ROMs: 0
+[COMPLETE] Room of Doom (USA).zip (Room of Doom (USA)) - Missing ROMs: 0
+[COMPLETE] Dragonstomper (USA).zip (Dragonstomper (USA)) - Missing ROMs: 0
+[COMPLETE] Time Warp (USA).zip (Time Warp (USA)) - Missing ROMs: 0
+[COMPLETE] Suicide Mission (USA).zip (Suicide Mission (USA)) - Missing ROMs: 0
+[COMPLETE] Demons to Diamonds (USA).zip (Demons to Diamonds (USA)) - Missing ROMs: 0
+[COMPLETE] Backgammon (USA).zip (Backgammon (USA)) - Missing ROMs: 0
+[COMPLETE] Front Line (USA).zip (Front Line (USA)) - Missing ROMs: 0
+[COMPLETE] Super Challenge Baseball (USA).zip (Super Challenge Baseball (USA)) - Missing ROMs: 0
+[COMPLETE] Skiing (USA).zip (Skiing (USA)) - Missing ROMs: 0
+[COMPLETE] Cosmic Creeps (USA).zip (Cosmic Creeps (USA)) - Missing ROMs: 0
+[COMPLETE] Winter Games (USA).zip (Winter Games (USA)) - Missing ROMs: 0
+[COMPLETE] Berenstain Bears (USA).zip (Berenstain Bears (USA)) - Missing ROMs: 0
+[COMPLETE] Super Football (USA).zip (Super Football (USA)) - Missing ROMs: 0
+[COMPLETE] Sky Jinks (USA).zip (Sky Jinks (USA)) - Missing ROMs: 0
+[COMPLETE] Venture (USA).zip (Venture (USA)) - Missing ROMs: 0
+[COMPLETE] Beat 'Em & Eat 'Em (USA).zip (Beat'Em &amp; Eat'Em (USA)) - Missing ROMs: 0
+[COMPLETE] Cross Force (USA).zip (Cross Force (USA)) - Missing ROMs: 0
+[COMPLETE] Eli's Ladder (USA).zip (Eli's Ladder (USA)) - Missing ROMs: 0
+[COMPLETE] Air Raid (USA).zip (Air Raid (USA)) - Missing ROMs: 0
+[COMPLETE] Kung-Fu Master (USA).zip (Kung-Fu Master (USA)) - Missing ROMs: 0
+[COMPLETE] Tapeworm (USA).zip (Tapeworm (USA)) - Missing ROMs: 0
+[COMPLETE] Congo Bongo (USA).zip (Congo Bongo (USA)) - Missing ROMs: 0
+[COMPLETE] Flag Capture ~ Capture (USA).zip (Flag Capture ~ Capture (USA)) - Missing ROMs: 0
+[COMPLETE] Checkers (USA).zip (Checkers (USA)) - Missing ROMs: 0
+[COMPLETE] Lilly Adventure (USA).zip (Lilly Adventure (USA)) - Missing ROMs: 0
+[COMPLETE] Rescue Terra I (USA).zip (Rescue Terra I (USA)) - Missing ROMs: 0
+[COMPLETE] Tunnel de L'Estace, Le (Europe).zip (Tunnel de L'Espace, Le (Europe)) - Missing ROMs: 0
+[COMPLETE] Moonsweeper (USA).zip (Moonsweeper (USA)) - Missing ROMs: 0
+[COMPLETE] Death Trap (USA).zip (Death Trap (USA)) - Missing ROMs: 0
+[COMPLETE] Gremlins (USA).zip (Gremlins (USA)) - Missing ROMs: 0
+[COMPLETE] Dodge 'Em ~ Dodger Cars (USA).zip (Dodge 'Em ~ Dodger Cars (USA)) - Missing ROMs: 0
+[COMPLETE] Threshold (USA).zip (Threshold (USA)) - Missing ROMs: 0
+[COMPLETE] Solaris (USA).zip (Solaris (USA)) - Missing ROMs: 0
+[COMPLETE] Berzerk (USA).zip (Berzerk (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] Submarine Commander (USA).zip (Submarine Commander (USA)) - Missing ROMs: 0
+[COMPLETE] Skate Boardin' (USA).zip (Skate Boardin' (USA)) - Missing ROMs: 0
+[COMPLETE] Space Shuttle - A Journey into Space (USA).zip (Space Shuttle - A Journey into Space (USA)) - Missing ROMs: 0
+[COMPLETE] Bachelor Party ~ Gigolo (USA).zip (Bachelor Party (USA)) - Missing ROMs: 0
+[COMPLETE] Bridge (USA).zip (Bridge (USA) (v1.1)) - Missing ROMs: 0
+[COMPLETE] Frogger (USA).zip (Frogger (USA)) - Missing ROMs: 0
+[COMPLETE] Human Cannonball ~ Cannon Man (USA).zip (Human Cannonball ~ Cannon Man (USA)) - Missing ROMs: 0
+[COMPLETE] Ms. Pac-Man (USA).zip (Ms. Pac-Man (USA)) - Missing ROMs: 0
+[COMPLETE] Video Life (USA).zip (Video Life (USA)) - Missing ROMs: 0
+[COMPLETE] Home Run ~ Baseball (USA).zip (Home Run ~ Baseball (USA)) - Missing ROMs: 0
+[COMPLETE] Seahawk (Europe).zip (Seahawk (Europe)) - Missing ROMs: 0
+[COMPLETE] Desert Falcon (USA).zip (Desert Falcon (USA)) - Missing ROMs: 0
+[COMPLETE] Dark Chambers (USA).zip (Dark Chambers (USA)) - Missing ROMs: 0
+[COMPLETE] Racing Car (USA).zip (Racing Car (USA)) - Missing ROMs: 0
+[COMPLETE] MegaBoy (USA).zip (MegaBoy (USA)) - Missing ROMs: 0
+[COMPLETE] Chuck Norris Superkicks (USA).zip (Chuck Norris Superkicks (USA)) - Missing ROMs: 0
+[COMPLETE] Mountain King (USA).zip (Mountain King (USA)) - Missing ROMs: 0
+[COMPLETE] Donkey Kong Junior (USA).zip (Donkey Kong Junior (USA)) - Missing ROMs: 0
+[COMPLETE] Towering Inferno (USA).zip (Towering Inferno (USA)) - Missing ROMs: 0
+[COMPLETE] Pitfall II - Lost Caverns (USA).zip (David Crane's Pitfall II - Lost Caverns (USA)) - Missing ROMs: 0
+[COMPLETE] London Blitz (USA).zip (London Blitz (USA)) - Missing ROMs: 0
+[COMPLETE] Spike's Peak (USA).zip (Spike's Peak (USA)) - Missing ROMs: 0
+[COMPLETE] Frog Demo (Europe).zip (Frog Demo (Europe) (Demo)) - Missing ROMs: 0
+[COMPLETE] Demolition Herby (USA).zip (Demolition Herby (USA)) - Missing ROMs: 0
+[COMPLETE] Spacechase (USA).zip (Spacechase (USA)) - Missing ROMs: 0
+[COMPLETE] Warlords (USA).zip (Warlords (USA)) - Missing ROMs: 0
+[COMPLETE] Malagai (USA).zip (Malagai (USA)) - Missing ROMs: 0
+[COMPLETE] Sky Skipper (USA).zip (Sky Skipper (USA)) - Missing ROMs: 0
+[COMPLETE] Tennis (USA).zip (Tennis (USA)) - Missing ROMs: 0
+[COMPLETE] Space Attack (USA).zip (Space Attack (USA)) - Missing ROMs: 0
+[COMPLETE] Up 'n Down (USA).zip (Up 'n Down (USA)) - Missing ROMs: 0
+[COMPLETE] Star Voyager (USA).zip (Star Voyager (USA)) - Missing ROMs: 0
+[COMPLETE] 32 in 1 Game Cartridge (Europe).zip (32 in 1 Game Cartridge (Europe, Australia)) - Missing ROMs: 0
+[COMPLETE] Spy Hunter (USA).zip (Spy Hunter (USA)) - Missing ROMs: 0
+[COMPLETE] Star Trek - Strategic Operations Simulator (USA).zip (Star Trek - Strategic Operations Simulator (USA)) - Missing ROMs: 0
+[COMPLETE] Bobby geht Heim (Europe).zip (Bobby Is Going Home (Europe)) - Missing ROMs: 0
+[COMPLETE] Othello (USA).zip (Othello (USA)) - Missing ROMs: 0
+[COMPLETE] Phantom Tank (Europe).zip (Phantom Tank (Europe)) - Missing ROMs: 0
+[COMPLETE] Chopper Command (USA).zip (Chopper Command (USA)) - Missing ROMs: 0
+[COMPLETE] Frostbite (USA).zip (Frostbite (USA)) - Missing ROMs: 0
+[COMPLETE] Taz (USA).zip (Taz (USA)) - Missing ROMs: 0
+[COMPLETE] Stronghold (USA).zip (Stronghold (USA)) - Missing ROMs: 0
+[COMPLETE] Ghostbusters II (Europe).zip (Ghostbusters II (Europe)) - Missing ROMs: 0
+[COMPLETE] Private Eye (USA).zip (Private Eye (USA)) - Missing ROMs: 0
+[COMPLETE] Crypts of Chaos (USA).zip (Crypts of Chaos (USA)) - Missing ROMs: 0
+[COMPLETE] Peter Penguin (Europe).zip (Peter Penguin (Europe)) - Missing ROMs: 0
+[COMPLETE] No Escape! (USA).zip (No Escape! (USA)) - Missing ROMs: 0
+[COMPLETE] Seaquest (USA).zip (Seaquest (USA)) - Missing ROMs: 0
+[COMPLETE] Nuts (Europe).zip (Nuts (Europe)) - Missing ROMs: 0
+[COMPLETE] Skindiver (Europe).zip (Skindiver (Europe)) - Missing ROMs: 0
+[COMPLETE] Escape from the Mindmaster (USA).zip (Escape from the Mindmaster (USA)) - Missing ROMs: 0
+[COMPLETE] Star Fox (USA).zip (Star Fox (USA)) - Missing ROMs: 0
+[COMPLETE] Super Cobra (USA).zip (Super Cobra (USA)) - Missing ROMs: 0
+[COMPLETE] Video Olympics ~ Pong Sports (USA).zip (Video Olympics ~ Pong Sports (USA)) - Missing ROMs: 0
+[COMPLETE] Mangia' (USA).zip (Mangia' (USA)) - Missing ROMs: 0
+[COMPLETE] Commando Raid (USA).zip (Commando Raid (USA)) - Missing ROMs: 0
+[COMPLETE] Forest (Europe).zip (Forest (Europe)) - Missing ROMs: 0
+[COMPLETE] Radar (USA).zip (Radar (USA)) - Missing ROMs: 0
+[COMPLETE] Wizard of Wor (USA).zip (Wizard of Wor (USA)) - Missing ROMs: 0
+[COMPLETE] Bowling (USA).zip (Bowling (USA)) - Missing ROMs: 0
+[COMPLETE] Robot Tank (USA).zip (Robot Tank (USA)) - Missing ROMs: 0
+[COMPLETE] Oscar's Trash Race (USA).zip (Oscar's Trash Race (USA)) - Missing ROMs: 0
+[COMPLETE] Encounter at L-5 (USA).zip (Encounter at L-5 (USA)) - Missing ROMs: 0
+[COMPLETE] Star Wars - Return of the Jedi - Death Star Battle (USA).zip (Star Wars - Return of the Jedi - Death Star Battle (USA)) - Missing ROMs: 0
+[COMPLETE] Karate (USA).zip (Karate (USA)) - Missing ROMs: 0
+[COMPLETE] Snoopy and the Red Baron (USA).zip (Snoopy and the Red Baron (USA)) - Missing ROMs: 0
+[COMPLETE] Video Jogger (USA).zip (Video Jogger (USA)) - Missing ROMs: 0
+[COMPLETE] Halloween (USA).zip (Halloween (USA)) - Missing ROMs: 0
+[COMPLETE] Hell Driver (Europe).zip (Hell Driver (Europe)) - Missing ROMs: 0
+[COMPLETE] Pharaoh's Curse (Europe).zip (Pharaoh's Curse (Europe)) - Missing ROMs: 0
+[COMPLETE] Sea Monster (USA).zip (Sea Monster (USA)) - Missing ROMs: 0
+[COMPLETE] Panda Chase (Europe).zip (Panda Chase (Europe)) - Missing ROMs: 0
+[COMPLETE] Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).zip (Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)) - Missing ROMs: 0
+[COMPLETE] Street Racer ~ Speedway II (USA).zip (Street Racer ~ Speedway II (USA)) - Missing ROMs: 0
+[COMPLETE] Riddle of the Sphinx (USA).zip (Riddle of the Sphinx (USA)) - Missing ROMs: 0
+[COMPLETE] Color Bar Generator (USA).zip (Color Bar Generator (USA)) - Missing ROMs: 0
+[COMPLETE] RealSports Tennis (USA).zip (RealSports Tennis (USA, Europe) (En,Fr,De,Es,It)) - Missing ROMs: 0
+[COMPLETE] Aliens Return (Europe).zip (Alien's Return (Europe)) - Missing ROMs: 0
+[COMPLETE] Polaris (USA).zip (Polaris (USA)) - Missing ROMs: 0
+[COMPLETE] Mega Force (USA).zip (Mega Force (USA)) - Missing ROMs: 0
+[COMPLETE] Combat ~ Tank-Plus (USA).zip (Combat ~ Tank-Plus (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] SwordQuest - WaterWorld (USA).zip (SwordQuest - WaterWorld (USA)) - Missing ROMs: 0
+[COMPLETE] Tomarc the Barbarian (USA).zip (Tomarc the Barbarian (USA)) - Missing ROMs: 0
+[COMPLETE] Glacier Patrol (USA).zip (Glacier Patrol (USA)) - Missing ROMs: 0
+[COMPLETE] Deadly Duck (USA).zip (Deadly Duck (USA)) - Missing ROMs: 0
+[COMPLETE] Title Match Pro Wrestling (USA).zip (Title Match Pro Wrestling (USA)) - Missing ROMs: 0
+[COMPLETE] Tooth Protectors (USA).zip (Tooth Protectors (USA)) - Missing ROMs: 0
+[COMPLETE] Slot Machine ~ Slots (USA).zip (Slot Machine ~ Slots (USA)) - Missing ROMs: 0
+[COMPLETE] Alpha Beam with Ernie (USA).zip (Alpha Beam with Ernie (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] Star Wars - Jedi Arena (USA).zip (Star Wars - Jedi Arena (USA)) - Missing ROMs: 0
+[COMPLETE] Pete Rose Baseball (USA).zip (Pete Rose Baseball (USA)) - Missing ROMs: 0
+[COMPLETE] Codebreaker (USA).zip (Codebreaker (USA)) - Missing ROMs: 0
+[COMPLETE] Wall Break (Europe).zip (Wall Break (Europe)) - Missing ROMs: 0
+[COMPLETE] Eggomania (USA).zip (Eggomania (USA)) - Missing ROMs: 0
+[COMPLETE] Crash Dive (USA).zip (Crash Dive (USA)) - Missing ROMs: 0
+[COMPLETE] Solar Storm (USA).zip (Solar Storm (USA)) - Missing ROMs: 0
+[COMPLETE] Swordfight (USA).zip (Swordfight (USA)) - Missing ROMs: 0
+[COMPLETE] Assault (USA).zip (Assault (USA)) - Missing ROMs: 0
+[COMPLETE] Guardian (USA).zip (Guardian (USA)) - Missing ROMs: 0
+[COMPLETE] Big Bird's Egg Catch (USA).zip (Big Bird's Egg Catch (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] Superman (USA).zip (Superman (USA)) - Missing ROMs: 0
+[COMPLETE] Stargunner (USA).zip (Stargunner (USA)) - Missing ROMs: 0
+[COMPLETE] MegaMania - A Space Nightmare (USA).zip (MegaMania - A Space Nightmare (USA)) - Missing ROMs: 0
+[COMPLETE] G.I. Joe - Cobra Strike (USA).zip (G.I. Joe - Cobra Strike (USA)) - Missing ROMs: 0
+[COMPLETE] Motocross (USA).zip (Motocross (Europe) (Quelle)) - Missing ROMs: 0
+[COMPLETE] China Syndrome (USA).zip (China Syndrome (USA)) - Missing ROMs: 0
+[COMPLETE] Sir Lancelot (USA).zip (Sir Lancelot (USA)) - Missing ROMs: 0
+[COMPLETE] IQ 180 (USA).zip (IQ 180 (USA)) - Missing ROMs: 0
+[COMPLETE] Star Ship ~ Outer Space (USA).zip (Star Ship ~ Outer Space (USA)) - Missing ROMs: 0
+[COMPLETE] Rampage! (USA).zip (Rampage! (USA)) - Missing ROMs: 0
+[COMPLETE] Sea Hunt ~ Scuba Diver (USA).zip (Sea Hunt ~ Scuba Diver (USA)) - Missing ROMs: 0
+[COMPLETE] Vanguard (USA).zip (Vanguard (USA)) - Missing ROMs: 0
+[COMPLETE] Marauder (USA).zip (Marauder (USA)) - Missing ROMs: 0
+[COMPLETE] Spider Fighter (USA).zip (Spider Fighter (USA)) - Missing ROMs: 0
+[COMPLETE] Popeye (USA).zip (Popeye (USA)) - Missing ROMs: 0
+[COMPLETE] Xenophobe (USA).zip (Xenophobe (USA)) - Missing ROMs: 0
+[COMPLETE] Activision Decathlon, The (USA).zip (Activision Decathlon, The (USA)) - Missing ROMs: 0
+[COMPLETE] Pengo (USA).zip (Pengo (USA)) - Missing ROMs: 0
+[COMPLETE] Springer (USA).zip (Springer (USA)) - Missing ROMs: 0
+[COMPLETE] Asteroids (USA).zip (Asteroids (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] Obelix (USA).zip (Obelix (USA)) - Missing ROMs: 0
+[COMPLETE] Phantom UFO (USA).zip (Phantom UFO (USA)) - Missing ROMs: 0
+[COMPLETE] Miner 2049er - Starring Bounty Bob (USA).zip (Miner 2049er - Starring Bounty Bob (USA)) - Missing ROMs: 0
+[COMPLETE] Adventures of TRON (USA).zip (Adventures of TRON (USA)) - Missing ROMs: 0
+[COMPLETE] BMX Air Master (USA).zip (BMX Air Master (USA)) - Missing ROMs: 0
+[COMPLETE] Dragonfire (USA).zip (Dragonfire (USA)) - Missing ROMs: 0
+[COMPLETE] Dancing Plate (USA).zip (Dancing Plate (Europe) (Puzzy)) - Missing ROMs: 0
+[MISSING] Bump 'n' Jump (USA).zip (Unknown / Modified ROM) - Missing ROMs: 1
+[COMPLETE] Basic Math ~ Math (USA).zip (Basic Math (USA)) - Missing ROMs: 0
+[COMPLETE] International Soccer (USA).zip (International Soccer (USA)) - Missing ROMs: 0
+[COMPLETE] Party Mix - Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, Handcar (USA).zip (Party Mix (USA)) - Missing ROMs: 0
+[COMPLETE] Radar Lock (USA).zip (Radar Lock (USA)) - Missing ROMs: 0
+[COMPLETE] Steeplechase (Europe).zip (Steeplechase (Europe)) - Missing ROMs: 0
+[COMPLETE] Mario Bros. (USA).zip (Mario Bros. (USA)) - Missing ROMs: 0
+[COMPLETE] Kangaroo (USA).zip (Kangaroo (USA)) - Missing ROMs: 0
+[COMPLETE] Sea Battle (USA).zip (Sea Battle (USA)) - Missing ROMs: 0
+[COMPLETE] Challenge (USA).zip (Challenge (Canada)) - Missing ROMs: 0
+[COMPLETE] Flash Gordon (USA).zip (Flash Gordon (USA)) - Missing ROMs: 0
+[COMPLETE] Cosmic Commuter (USA).zip (Cosmic Commuter (USA)) - Missing ROMs: 0
+[COMPLETE] Golf (USA).zip (Golf (USA)) - Missing ROMs: 0
+[COMPLETE] Cat Trax (USA).zip (Cat Trax (USA)) - Missing ROMs: 0
+[COMPLETE] RealSports Volleyball (USA).zip (RealSports Volleyball (USA, Europe) (En,Fr,De,Es,It)) - Missing ROMs: 0
+[COMPLETE] Astroblast (USA).zip (Astroblast (USA) (v1.1)) - Missing ROMs: 0
+[COMPLETE] Out of Control (USA).zip (Out of Control (USA)) - Missing ROMs: 0
+[COMPLETE] Sssnake (USA).zip (Sssnake (USA)) - Missing ROMs: 0
+[COMPLETE] Dice Puzzle (USA).zip (Dice Puzzle (USA)) - Missing ROMs: 0
+[COMPLETE] Laser Gates (USA).zip (Laser Gates (USA)) - Missing ROMs: 0
+[COMPLETE] Moon Patrol (USA).zip (Moon Patrol (USA)) - Missing ROMs: 0
+[COMPLETE] Crystal Castles (USA).zip (Crystal Castles (USA)) - Missing ROMs: 0
+[COMPLETE] Condor Attack (USA).zip (Condor Attack (USA)) - Missing ROMs: 0
+[COMPLETE] Revenge of the Beefsteak Tomatoes (USA).zip (Revenge of the Beefsteak Tomatoes (USA)) - Missing ROMs: 0
+[COMPLETE] Frankenstein's Monster (USA).zip (Frankenstein's Monster (USA)) - Missing ROMs: 0
+[COMPLETE] Airlock (USA).zip (Airlock (USA)) - Missing ROMs: 0
+[COMPLETE] Math Gran Prix (USA).zip (Math Gran Prix (USA)) - Missing ROMs: 0
+[COMPLETE] Strategy X (USA).zip (Strategy X (USA)) - Missing ROMs: 0
+[COMPLETE] Super Baseball (USA).zip (Super Baseball (USA)) - Missing ROMs: 0
+[COMPLETE] Raft Rider (USA).zip (Raft Rider (USA)) - Missing ROMs: 0
+[COMPLETE] Football (USA).zip (Football (USA)) - Missing ROMs: 0
+[COMPLETE] Star Wars - The Arcade Game (USA).zip (Star Wars - The Arcade Game (USA)) - Missing ROMs: 0
+[COMPLETE] Thunderground (USA).zip (Thunderground (USA)) - Missing ROMs: 0
+[COMPLETE] Boxing (USA).zip (Boxing (USA)) - Missing ROMs: 0
+[COMPLETE] Stampede (USA).zip (Stampede (USA)) - Missing ROMs: 0
+[COMPLETE] Glib - Video Word Game (USA).zip (Glib - Video Word Game (USA)) - Missing ROMs: 0
+[COMPLETE] Venetian Blinds Demo (USA).zip (Venetian Blinds Demo (USA) (Demo)) - Missing ROMs: 0
+[COMPLETE] Mission 3,000 A.D. (USA).zip (Mission 3,000 A.D. (USA)) - Missing ROMs: 0
+[COMPLETE] Boing! (USA).zip (Boing! (USA)) - Missing ROMs: 0
+[COMPLETE] SwordQuest - FireWorld (USA).zip (SwordQuest - FireWorld (USA)) - Missing ROMs: 0
+[COMPLETE] Ski Run (Europe).zip (Ski Run (Europe)) - Missing ROMs: 0
+[COMPLETE] Blueprint (USA).zip (Blueprint (USA)) - Missing ROMs: 0
+[COMPLETE] Fire Spinner (USA).zip (Fire Spinner (USA)) - Missing ROMs: 0
+[COMPLETE] Video Chess (USA).zip (Video Chess (USA)) - Missing ROMs: 0
+[COMPLETE] Crazy Climber (USA).zip (Crazy Climber (USA)) - Missing ROMs: 0
+[COMPLETE] Killer Satellites (USA).zip (Killer Satellites (USA)) - Missing ROMs: 0
+[COMPLETE] Sky Alien (Europe).zip (Sky Alien ~ Assault (Europe)) - Missing ROMs: 0
+[COMPLETE] Dig Dug (USA).zip (Dig Dug (USA)) - Missing ROMs: 0
+[COMPLETE] Shuttle Orbiter (USA).zip (Shuttle Orbiter (USA)) - Missing ROMs: 0
+[COMPLETE] Road Runner (USA).zip (Road Runner (USA)) - Missing ROMs: 0
+[COMPLETE] Joust (USA).zip (Joust (USA)) - Missing ROMs: 0
+[COMPLETE] Off the Wall (USA).zip (Off the Wall (USA)) - Missing ROMs: 0
+[COMPLETE] Indy 500 ~ Race (USA).zip (Indy 500 ~ Race (USA)) - Missing ROMs: 0
+[COMPLETE] Acid Drop (USA).zip (Acid Drop (Europe)) - Missing ROMs: 0
+[COMPLETE] Battlezone (USA).zip (Battlezone (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] Star Wars - The Empire Strikes Back (USA).zip (Star Wars - The Empire Strikes Back (USA)) - Missing ROMs: 0
+[COMPLETE] Gyruss (USA).zip (Gyruss (USA)) - Missing ROMs: 0
+[COMPLETE] Space Tunnel (USA).zip (Space Tunnel (USA)) - Missing ROMs: 0
+[COMPLETE] Space Jockey (USA).zip (Space Jockey (USA)) - Missing ROMs: 0
+[COMPLETE] Mouse Trap (USA).zip (Mouse Trap (USA)) - Missing ROMs: 0
+[COMPLETE] Wall Ball (USA).zip (Wall Ball (USA)) - Missing ROMs: 0
+[COMPLETE] Survival Island (USA).zip (Survival Island (USA)) - Missing ROMs: 0
+[COMPLETE] Pooyan (USA).zip (Pooyan (USA)) - Missing ROMs: 0
+[COMPLETE] Fathom (USA).zip (Fathom (USA)) - Missing ROMs: 0
+[COMPLETE] Smurfs Save the Day (USA).zip (Smurfs Save the Day (USA)) - Missing ROMs: 0
+[COMPLETE] Pharaoh's Curse (USA).zip (Pharaoh's Curse (USA)) - Missing ROMs: 0
+[COMPLETE] River Raid II (USA).zip (River Raid II (USA)) - Missing ROMs: 0
+[COMPLETE] Video Reflex (USA).zip (Video Reflex (USA)) - Missing ROMs: 0
+[COMPLETE] Raiders of the Lost Ark (USA).zip (Raiders of the Lost Ark (USA)) - Missing ROMs: 0
+[COMPLETE] Sorcerer's Apprentice (USA).zip (Sorcerer's Apprentice (USA)) - Missing ROMs: 0
+[COMPLETE] Astrowar (USA).zip (Astrowar (Brazil) (En) (Unl)) - Missing ROMs: 0
+[COMPLETE] Mission Survive (Europe).zip (Mission Survive (Europe)) - Missing ROMs: 0
+[COMPLETE] Fast Eddie (USA).zip (Fast Eddie (USA)) - Missing ROMs: 0
+[COMPLETE] Extra Terrestrials (USA).zip (Extra Terrestrials (USA)) - Missing ROMs: 0
+[COMPLETE] Sorcerer (USA).zip (Sorcerer (USA)) - Missing ROMs: 0
+[COMPLETE] Frogs and Flies (USA).zip (Frogs and Flies (USA)) - Missing ROMs: 0
+[COMPLETE] Challenge of.... Nexar, The (USA).zip (Challenge of.... NEXAR, The (USA)) - Missing ROMs: 0
+[COMPLETE] Mind Maze (USA).zip (Mind Maze (USA)) - Missing ROMs: 0
+[COMPLETE] Sneak 'n Peek (USA).zip (Sneak 'n Peek (USA)) - Missing ROMs: 0
+[COMPLETE] Defender (USA).zip (Defender (USA)) - Missing ROMs: 0
+[COMPLETE] Star Strike (USA).zip (Star Strike (USA)) - Missing ROMs: 0
+[COMPLETE] RealSports Boxing (USA).zip (RealSports Boxing (USA, Europe) (En,Fr,De,Es,It)) - Missing ROMs: 0
+[COMPLETE] Space Cavern (USA).zip (Space Cavern (USA)) - Missing ROMs: 0
+[COMPLETE] Q-bert (USA).zip (Q-bert (USA)) - Missing ROMs: 0
+[COMPLETE] Robin Hood (USA).zip (Robin Hood (USA)) - Missing ROMs: 0
+[COMPLETE] Bumper Bash (USA).zip (Bumper Bash (USA)) - Missing ROMs: 0
+[COMPLETE] TRON - Deadly Discs (USA).zip (TRON - Deadly Discs (USA)) - Missing ROMs: 0
+[COMPLETE] Gorf (USA).zip (Gorf (USA)) - Missing ROMs: 0
+[COMPLETE] Blackjack (USA).zip (Black Jack (USA)) - Missing ROMs: 0
+[COMPLETE] Gopher (USA).zip (Gopher (USA)) - Missing ROMs: 0
+[COMPLETE] Wall-Defender (USA).zip (Wall-Defender (USA)) - Missing ROMs: 0
+[COMPLETE] Tac-Scan (USA).zip (Tac-Scan (USA)) - Missing ROMs: 0
+[COMPLETE] Trick Shot (USA).zip (Trick Shot (USA)) - Missing ROMs: 0
+[COMPLETE] Stargate (USA).zip (Stargate (USA)) - Missing ROMs: 0
+[COMPLETE] SwordQuest - EarthWorld (USA).zip (SwordQuest - EarthWorld (USA)) - Missing ROMs: 0
+[COMPLETE] Ice Hockey (USA).zip (Ice Hockey (USA)) - Missing ROMs: 0
+[COMPLETE] Buck Rogers - Planet of Zoom (USA).zip (Buck Rogers - Planet of Zoom (USA)) - Missing ROMs: 0
+[COMPLETE] Quadrun (USA).zip (Quadrun (USA)) - Missing ROMs: 0
+[COMPLETE] Dishaster (USA).zip (Dishaster (USA)) - Missing ROMs: 0
+[COMPLETE] Squeeze Box (USA).zip (Squeeze Box (USA)) - Missing ROMs: 0
+[COMPLETE] Laser Blast (USA).zip (Laser Blast (USA)) - Missing ROMs: 0
+[COMPLETE] Casino ~ Poker Plus (USA).zip (Casino ~ Poker Plus (USA)) - Missing ROMs: 0
+[COMPLETE] Centipede (USA).zip (Centipede (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] Sweat! The Decathalon Game (USA).zip (Sweat! The Decathlon Game (USA)) - Missing ROMs: 0
+[COMPLETE] Save Our Ship (Europe).zip (Save Our Ship (Europe)) - Missing ROMs: 0
+[COMPLETE] Ski Run (USA).zip (Ski Run (USA)) - Missing ROMs: 0
+[COMPLETE] Mission 3,000 A.D. (Europe).zip (Mission 3000 (Europe)) - Missing ROMs: 0
+[COMPLETE] Phaser Patrol (USA).zip (Phaser Patrol (USA)) - Missing ROMs: 0
+[COMPLETE] BASIC Programming (USA).zip (BASIC Programming (USA)) - Missing ROMs: 0
+[COMPLETE] Jungle Fever ~ Knight on the Town (USA).zip (Jungle Fever (USA)) - Missing ROMs: 0
+[COMPLETE] Pitfall! - Pitfall Harry's Jungle Adventure (USA).zip (Pitfall! - Pitfall Harry's Jungle Adventure (USA)) - Missing ROMs: 0
+[COMPLETE] Tax Avoiders (USA).zip (Tax Avoiders (USA)) - Missing ROMs: 0
+[COMPLETE] Worm War I (USA).zip (Worm War I (USA)) - Missing ROMs: 0
+[COMPLETE] Great Escape (Europe).zip (Great Escape (Europe)) - Missing ROMs: 0
+[COMPLETE] Marine Wars (USA).zip (Marine Wars (USA)) - Missing ROMs: 0
+[COMPLETE] Bachelorette Party ~ Burning Desire (USA).zip (Burning Desire (USA)) - Missing ROMs: 0
+[COMPLETE] Open Sesame (Europe).zip (Open Sesame (Europe) (Goliath)) - Missing ROMs: 0
+[COMPLETE] Nightmare (Europe).zip (Nightmare (Europe)) - Missing ROMs: 0
+[COMPLETE] Sky Diver ~ Dare Diver (USA).zip (Sky Diver ~ Dare Diver (USA)) - Missing ROMs: 0
+[COMPLETE] Barnstorming (USA).zip (Barnstorming (USA)) - Missing ROMs: 0
+[COMPLETE] Name This Game (USA).zip (Name This Game (USA)) - Missing ROMs: 0
+[COMPLETE] Space War ~ Space Combat (USA).zip (Space War ~ Space Combat (USA)) - Missing ROMs: 0
+[COMPLETE] Treasure Below (Europe).zip (Treasure Below (Europe)) - Missing ROMs: 0
+[COMPLETE] Skeet Shoot (USA).zip (Skeet Shoot (USA)) - Missing ROMs: 0
+[COMPLETE] Enduro (USA).zip (Enduro (USA)) - Missing ROMs: 0
+[COMPLETE] E.T. - The Extra-Terrestrial (USA).zip (E.T. - The Extra-Terrestrial (USA)) - Missing ROMs: 0
+[COMPLETE] Word Zapper (USA).zip (Word Zapper (USA)) - Missing ROMs: 0
+[COMPLETE] Super Challenge Football (USA).zip (Super Challenge Football (USA)) - Missing ROMs: 0
+[COMPLETE] Survival Run (USA).zip (Survival Run (USA)) - Missing ROMs: 0
+[COMPLETE] Earth Dies Screaming, The (USA).zip (Earth Dies Screaming, The (USA)) - Missing ROMs: 0
+[COMPLETE] Demon Attack (USA) (Rev 1).zip (Demon Attack (USA) (Rev 1)) - Missing ROMs: 0
+[COMPLETE] I.Q. Memory Teaser (Europe).zip (I.Q. Memory Teaser (Europe)) - Missing ROMs: 0
+[COMPLETE] Raumpatrouille (USA).zip (Raumpatrouille (USA)) - Missing ROMs: 0
+[COMPLETE] Missile Command (USA).zip (Missile Command (USA)) - Missing ROMs: 0
+[COMPLETE] Fire Fighter (USA).zip (Fire Fighter (USA)) - Missing ROMs: 0
+[COMPLETE] Planet Patrol (USA).zip (Planet Patrol (USA)) - Missing ROMs: 0
+[COMPLETE] Slot Racers ~ Maze (USA).zip (Slot Racers ~ Maze (USA)) - Missing ROMs: 0
+[COMPLETE] Stone Age (USA).zip (Stone Age (USA)) - Missing ROMs: 0
+[COMPLETE] Artillery Duel (USA).zip (Artillery Duel (USA)) - Missing ROMs: 0
+[COMPLETE] Fantastic Voyage (USA).zip (Fantastic Voyage (USA)) - Missing ROMs: 0
+[COMPLETE] Kool-Aid Man (USA).zip (Kool-Aid Man (USA)) - Missing ROMs: 0
+[COMPLETE] Spider Maze (USA).zip (Spider Maze (USA)) - Missing ROMs: 0
+[COMPLETE] Tapper (USA).zip (Tapper (USA)) - Missing ROMs: 0
+[COMPLETE] Plaque Attack (USA).zip (Plaque Attack (USA)) - Missing ROMs: 0
+[COMPLETE] Air-Sea Battle ~ Target Fun (USA).zip (Air-Sea Battle ~ Target Fun (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] Oink! (USA).zip (Oink! (USA)) - Missing ROMs: 0
+[COMPLETE] Astrowar (Europe).zip (Missile War ~ Astro War ~ Astrowar (Europe)) - Missing ROMs: 0
+[COMPLETE] Chase the Chuckwagon (USA).zip (Chase the Chuck Wagon (USA)) - Missing ROMs: 0
+[COMPLETE] Bank Heist (USA).zip (Bank Heist (USA)) - Missing ROMs: 0
+[COMPLETE] My Golf (Europe).zip (My Golf (Germany) (En,De)) - Missing ROMs: 0
+[COMPLETE] Keystone Kapers (USA).zip (Keystone Kapers (USA)) - Missing ROMs: 0
+[COMPLETE] Gravitar (USA).zip (Gravitar (USA)) - Missing ROMs: 0
+[COMPLETE] Track and Field (USA).zip (Track and Field (USA)) - Missing ROMs: 0
+[COMPLETE] Double Dragon (USA).zip (Double Dragon (USA)) - Missing ROMs: 0
+[COMPLETE] Alien (USA).zip (Alien (USA)) - Missing ROMs: 0
+[COMPLETE] Star Raiders (USA).zip (Star Raiders (USA)) - Missing ROMs: 0
+[COMPLETE] Fatal Run (USA).zip (Fatal Run (USA)) - Missing ROMs: 0
+[COMPLETE] H.E.R.O. (USA).zip (H.E.R.O. (USA)) - Missing ROMs: 0
+[COMPLETE] Spitfire Attack (USA).zip (Spitfire Attack (USA)) - Missing ROMs: 0
+[COMPLETE] Spider-Man (USA).zip (Spider-Man (USA)) - Missing ROMs: 0
+[COMPLETE] Atlantis II (USA).zip (Atlantis II (USA)) - Missing ROMs: 0
+[COMPLETE] SpaceMaster X-7 (USA).zip (SpaceMaster X-7 (USA)) - Missing ROMs: 0
+[COMPLETE] Infiltrate (USA).zip (Infiltrate (USA)) - Missing ROMs: 0
+[COMPLETE] Parachute (Europe).zip (Parachute (Europe)) - Missing ROMs: 0
+[COMPLETE] X-Man (USA).zip (X-Man (USA)) - Missing ROMs: 0
+[COMPLETE] 3-D Tic-Tac-Toe (USA).zip (3-D Tic-Tac-Toe (USA)) - Missing ROMs: 0
+[COMPLETE] M.A.S.H (USA).zip (M.A.S.H (USA)) - Missing ROMs: 0
+[COMPLETE] Dice Puzzle (Europe).zip (Dice Puzzle (Europe)) - Missing ROMs: 0
+[COMPLETE] Roc 'n Rope (USA).zip (Roc 'n Rope (USA)) - Missing ROMs: 0
+[COMPLETE] Treasure Island ~ Duck Shoot (Europe).zip (Treasure Island (Europe)) - Missing ROMs: 0
+[COMPLETE] Mr. Postman (Europe).zip (Mr. Postman (Europe)) - Missing ROMs: 0
+[COMPLETE] Lady In Wading (USA).zip (Lady in Wading (USA)) - Missing ROMs: 0
+[COMPLETE] Mr. Postman (USA).zip (Mr. Postman (USA)) - Missing ROMs: 0
+[COMPLETE] Q-bert's Qubes (USA).zip (Q-bert's Qubes (USA)) - Missing ROMs: 0
+[COMPLETE] RealSports Baseball (USA).zip (RealSports Baseball (USA, Europe) (En,Fr,De,Es,It)) - Missing ROMs: 0
+[COMPLETE] Ghost Manor (USA).zip (Ghost Manor (USA)) - Missing ROMs: 0
+[COMPLETE] Klax (USA).zip (Klax (USA)) - Missing ROMs: 0
+[COMPLETE] Outlaw ~ Gunslinger (USA).zip (Outlaw ~ Gunslinger (USA)) - Missing ROMs: 0
+[COMPLETE] Basketball (USA).zip (Basketball (USA)) - Missing ROMs: 0
+[COMPLETE] Solar Fox (USA).zip (Solar Fox (USA)) - Missing ROMs: 0
+[COMPLETE] Tanks But no Tanks (USA).zip (Tanks but No Tanks (USA)) - Missing ROMs: 0
+[COMPLETE] Shootin' Gallery (USA).zip (Shootin' Gallery (USA)) - Missing ROMs: 0
+[COMPLETE] Picnic (USA).zip (Picnic (USA)) - Missing ROMs: 0
+[COMPLETE] Frogger II - Threeedeep! (USA).zip (Frogger II - Threeedeep! (USA)) - Missing ROMs: 0
+[COMPLETE] Yars' Revenge (USA).zip (Yars' Revenge (USA)) - Missing ROMs: 0
+[COMPLETE] Video Pinball ~ Arcade Pinball (USA).zip (Video Pinball ~ Arcade Pinball (USA)) - Missing ROMs: 0
+[COMPLETE] Canyon Bomber (USA).zip (Canyon Bomber (USA)) - Missing ROMs: 0
+[COMPLETE] Night Driver (USA).zip (Night Driver (USA)) - Missing ROMs: 0
+[COMPLETE] Grand Prix (USA).zip (Grand Prix (USA)) - Missing ROMs: 0
+[COMPLETE] Dragster (USA).zip (Dragster (USA)) - Missing ROMs: 0
+[COMPLETE] Time Warp (Europe).zip (Time Warp (Europe)) - Missing ROMs: 0
+[COMPLETE] Great Escape (USA).zip (Great Escape (USA)) - Missing ROMs: 0
+[COMPLETE] Sentinel (USA).zip (Sentinel (USA)) - Missing ROMs: 0
+[COMPLETE] Miniature Golf ~ Arcade Golf (USA).zip (Miniature Golf ~ Arcade Golf (USA)) - Missing ROMs: 0
+[COMPLETE] Kaboom! (USA).zip (Kaboom! (USA)) - Missing ROMs: 0
+[COMPLETE] Steeplechase (USA).zip (Steeplechase (USA)) - Missing ROMs: 0
+[COMPLETE] Tunnel Runner (USA).zip (Tunnel Runner (USA)) - Missing ROMs: 0
+[COMPLETE] Motocross Racer (USA).zip (Motocross Racer (USA)) - Missing ROMs: 0
+[COMPLETE] Zaxxon (USA).zip (Zaxxon (USA)) - Missing ROMs: 0
+[COMPLETE] Lost Luggage (USA).zip (Lost Luggage (USA)) - Missing ROMs: 0
+[COMPLETE] Gamma-Attack (USA).zip (Gamma-Attack (USA)) - Missing ROMs: 0
+[COMPLETE] Haunted House (USA).zip (Haunted House (USA)) - Missing ROMs: 0
+[COMPLETE] World End (USA).zip (World End (USA)) - Missing ROMs: 0
+[COMPLETE] Commando (USA).zip (Commando (USA)) - Missing ROMs: 0
+[COMPLETE] Wing War (Europe).zip (Wing War (Europe)) - Missing ROMs: 0
+[COMPLETE] RealSports Soccer (USA).zip (RealSports Soccer (USA, Europe) (En,Fr,De,Es,It)) - Missing ROMs: 0
+[COMPLETE] MagiCard (USA).zip (MagiCard (USA)) - Missing ROMs: 0
+[COMPLETE] Quest for Quintana Roo (USA).zip (Quest for Quintana Roo (USA)) - Missing ROMs: 0
+[COMPLETE] Air Raiders (USA).zip (Air Raiders (USA)) - Missing ROMs: 0
+[COMPLETE] M.A.D. (USA).zip (M.A.D. (USA)) - Missing ROMs: 0
+[COMPLETE] World End (Europe).zip (World End (Europe)) - Missing ROMs: 0
+[COMPLETE] Tomcat - The F-14 Fighter Simulator (USA).zip (Dan Kitchen's Tomcat - The F-14 Fighter Simulator (USA)) - Missing ROMs: 0
+[COMPLETE] Dragon Defender (Europe).zip (Dragon Defender (Europe)) - Missing ROMs: 0
+[COMPLETE] Video Checkers ~ Checkers (USA).zip (Video Checkers ~ Checkers (USA)) - Missing ROMs: 0
+[COMPLETE] Nuts (USA).zip (Nuts (USA)) - Missing ROMs: 0
+[COMPLETE] Go Go Home Monster (USA).zip (Col 'N' (Europe) (Unl)) - Missing ROMs: 0
+[COMPLETE] Omega Race (USA).zip (Omega Race (USA)) - Missing ROMs: 0
+[COMPLETE] Circus Atari (USA).zip (Circus Atari (Japan, USA) (En)) - Missing ROMs: 0
+[COMPLETE] Atari Video Cube (USA).zip (Atari Video Cube (USA)) - Missing ROMs: 0
+[COMPLETE] Rabbit Transit (USA).zip (Rabbit Transit (USA)) - Missing ROMs: 0
+[COMPLETE] Fatal Run (Europe).zip (Fatal Run (Europe)) - Missing ROMs: 0
+[COMPLETE] Ram It (USA).zip (Ram It (USA)) - Missing ROMs: 0
+[COMPLETE] Mr. Do! (USA).zip (Mr. Do! (USA)) - Missing ROMs: 0
+[COMPLETE] Sprint Master (USA).zip (Sprint Master (USA)) - Missing ROMs: 0
+[COMPLETE] Wabbit (USA).zip (Wabbit (USA)) - Missing ROMs: 0
+[COMPLETE] I.Q. 180 (USA).zip (I.Q. 180 (USA)) - Missing ROMs: 0
+[COMPLETE] Universal Chaos (USA).zip (Universal Chaos (USA)) - Missing ROMs: 0
+[COMPLETE] Dolphin (USA).zip (Dolphin (USA)) - Missing ROMs: 0
+[COMPLETE] Pigs in Space - Starring Miss Piggy (USA).zip (Pigs in Space - Starring Miss Piggy (USA)) - Missing ROMs: 0
+[COMPLETE] Squirrel ~ O Esquilo (USA).zip (Squirrel ~ O Esquilo (USA)) - Missing ROMs: 0
+[COMPLETE] Walker ~ Schussel Der Polizistenschreck (Europe).zip (Walker ~ Schussel, der Polizistenschreck (Europe)) - Missing ROMs: 0
+[COMPLETE] Ghostbusters (USA).zip (Ghostbusters (USA)) - Missing ROMs: 0
+[COMPLETE] Bobby is Going Home (USA).zip (Bobby Is Going Home (USA)) - Missing ROMs: 0
+[COMPLETE] Summer Games (USA).zip (Summer Games (USA)) - Missing ROMs: 0
+[COMPLETE] Farmyard Fun (USA).zip (Farmyard Fun (USA)) - Missing ROMs: 0
+[COMPLETE] Lock 'n' Chase (USA).zip (Lock 'n' Chase (USA)) - Missing ROMs: 0
+[COMPLETE] Dukes of Hazzard (USA).zip (Dukes of Hazzard (USA) (Proto)) - Missing ROMs: 0
+[COMPLETE] Double Dunk (USA).zip (Double Dunk (USA)) - Missing ROMs: 0
+[COMPLETE] River Patrol (USA).zip (River Patrol (USA)) - Missing ROMs: 0
+[COMPLETE] Tutankham (USA).zip (Tutankham (USA)) - Missing ROMs: 0
+[COMPLETE] Exocet (Europe).zip (Exocet (Europe)) - Missing ROMs: 0
+[COMPLETE] Krull (USA).zip (Krull (USA)) - Missing ROMs: 0
+[COMPLETE] Space Invaders (USA).zip (Space Invaders (USA)) - Missing ROMs: 0
+[COMPLETE] Official Frogger, The (USA).zip (Official Frogger, The (USA)) - Missing ROMs: 0
+[COMPLETE] Gangster Alley (USA).zip (Gangster Alley (USA)) - Missing ROMs: 0
+[COMPLETE] Dark Cavern (USA).zip (Dark Cavern (USA)) - Missing ROMs: 0
+[COMPLETE] Fireball (USA).zip (Fireball (USA)) - Missing ROMs: 0
+[COMPLETE] Championship Soccer ~ Soccer (USA).zip (Championship Soccer ~ Soccer (USA)) - Missing ROMs: 0
+[COMPLETE] Snail Against Squirrel (Europe).zip (Snail Against Squirrel (Europe)) - Missing ROMs: 0
+[COMPLETE] Miner 2049er Volume II (USA).zip (Miner 2049er Volume II (USA)) - Missing ROMs: 0
+[COMPLETE] James Bond 007 (USA).zip (James Bond 007 (USA)) - Missing ROMs: 0
+[COMPLETE] Ski Hunt (Europe).zip (Ski Hunt (Europe)) - Missing ROMs: 0
+[COMPLETE] Racquetball (USA).zip (Racquetball (USA)) - Missing ROMs: 0
+[COMPLETE] Sea Hawk (USA).zip (Sea Hawk (USA)) - Missing ROMs: 0
+[COMPLETE] Crossbow (USA).zip (Crossbow (USA)) - Missing ROMs: 0
+[COMPLETE] I Want My Mommy (USA).zip (I Want My Mommy (USA)) - Missing ROMs: 0
+[COMPLETE] King Kong (USA).zip (King Kong (USA)) - Missing ROMs: 0
+[COMPLETE] Pick 'n' Pile (Europe).zip (Pick 'n' Pile (Europe)) - Missing ROMs: 0
+[COMPLETE] Porky's (USA).zip (Porky's (USA)) - Missing ROMs: 0
+[COMPLETE] Super Breakout (USA).zip (Super Breakout (USA)) - Missing ROMs: 0
+[COMPLETE] Galaxian (USA).zip (Galaxian (USA)) - Missing ROMs: 0
+[COMPLETE] Beany Bopper (USA).zip (Beany Bopper (USA)) - Missing ROMs: 0
+[COMPLETE] Action Force (USA).zip (Action Man - Action Force (Europe)) - Missing ROMs: 0
+[COMPLETE] Save our Ship (USA).zip (Save Our Ship (USA)) - Missing ROMs: 0
+[COMPLETE] Hangman ~ Spelling (USA).zip (Hangman ~ Spelling (USA)) - Missing ROMs: 0
+[COMPLETE] Music Machine, The (USA).zip (Music Machine, The (USA)) - Missing ROMs: 0
+[COMPLETE] Lilly Adventure (Europe).zip (Lilly Adventure (Europe)) - Missing ROMs: 0
+[COMPLETE] Montezuma's Revenge - Featuring Panama Joe (USA).zip (Montezuma's Revenge - Featuring Panama Joe (USA)) - Missing ROMs: 0
+[COMPLETE] Pole Position (USA).zip (Pole Position (USA)) - Missing ROMs: 0
+[COMPLETE] Hole Hunter (USA).zip (Hole Hunter (USA)) - Missing ROMs: 0
+[COMPLETE] Final Approach (USA).zip (Final Approach (USA)) - Missing ROMs: 0
+[COMPLETE] Espial (USA).zip (Espial (USA)) - Missing ROMs: 0
+[COMPLETE] Stunt Man (USA).zip (Stunt Man (USA)) - Missing ROMs: 0
+[COMPLETE] Lochjaw (USA).zip (Lochjaw (USA)) - Missing ROMs: 0
+[COMPLETE] California Games (USA).zip (California Games (USA)) - Missing ROMs: 0
+[COMPLETE] Ikari Warriors (USA).zip (Ikari Warriors (USA)) - Missing ROMs: 0
+[COMPLETE] Stellar Track (USA).zip (Stellar Track (USA)) - Missing ROMs: 0
+[COMPLETE] BurgerTime (USA).zip (BurgerTime (USA)) - Missing ROMs: 0
+[COMPLETE] Strawberry Shortcake - Musical Match-Ups (USA).zip (Strawberry Shortcake - Musical Match-Ups (USA)) - Missing ROMs: 0
+[COMPLETE] Phoenix (USA).zip (Phoenix (USA)) - Missing ROMs: 0
+[COMPLETE] Cookie Monster Munch (USA).zip (Cookie Monster Munch (USA)) - Missing ROMs: 0
+[COMPLETE] Coco Nuts (USA).zip (Coco Nuts (USA)) - Missing ROMs: 0
+[COMPLETE] Frisco (USA).zip (Frisco (USA)) - Missing ROMs: 0
+[COMPLETE] Mines of Minos (USA).zip (Mines of Minos (USA)) - Missing ROMs: 0
+[COMPLETE] Brain Games (USA).zip (Brain Games (USA)) - Missing ROMs: 0
+[COMPLETE] Z-Tack (USA).zip (Z-Tack (USA)) - Missing ROMs: 0
+[COMPLETE] Warplock (USA).zip (Warplock (USA)) - Missing ROMs: 0
+[COMPLETE] Subterranea (USA).zip (Subterranea (USA)) - Missing ROMs: 0
+[COMPLETE] Pac-Man (USA).zip (Pac-Man (USA)) - Missing ROMs: 0
+[COMPLETE] Missile Control (Europe).zip (Missile Control (Europe)) - Missing ROMs: 0
+[COMPLETE] Journey Escape (USA).zip (Journey Escape (USA)) - Missing ROMs: 0
+[COMPLETE] Communist Mutants from Space (USA).zip (Communist Mutants from Space (USA)) - Missing ROMs: 0
+[COMPLETE] Beamrider (USA).zip (Beamrider (USA)) - Missing ROMs: 0
+[COMPLETE] Bugs (USA).zip (Bugs (USA)) - Missing ROMs: 0
+[COMPLETE] Quick Step! (USA).zip (Quick Step! (USA)) - Missing ROMs: 0
+[COMPLETE] Breakout ~ Breakaway IV (USA).zip (Breakout ~ Breakaway IV (Japan, USA) (En)) - Missing ROMs: 0
+[MISSING] Klax (Europe).zip (Unknown / Modified ROM) - Missing ROMs: 1
+[COMPLETE] Surfer's Paradise - But Danger Below! (Europe).zip (Surfer's Paradise - But Danger Below! (Europe)) - Missing ROMs: 0
+[COMPLETE] Hunt & Score ~ Memory Match (USA).zip (Hunt &amp; Score ~ Memory Match (USA)) - Missing ROMs: 0
+[COMPLETE] Apples And Dolls (USA).zip (Apples and Dolls (Brazil) (En) (Unl)) - Missing ROMs: 0
+[COMPLETE] Fire Fly (USA).zip (Fire Fly (USA)) - Missing ROMs: 0
+[COMPLETE] Cathouse Blues (USA).zip (Cathouse Blues (USA)) - Missing ROMs: 0
+[COMPLETE] Atlantis (USA).zip (Atlantis (USA)) - Missing ROMs: 0
+[COMPLETE] Jr. Pac-Man (USA).zip (Jr. Pac-Man (USA)) - Missing ROMs: 0
+[COMPLETE] Fishing Derby (USA).zip (Fishing Derby (USA)) - Missing ROMs: 0

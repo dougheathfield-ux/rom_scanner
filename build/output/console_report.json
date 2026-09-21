@@ -1,0 +1,3055 @@
+{
+  "total_sets": 508,
+  "complete_sets": 506,
+  "incomplete_sets": 2,
+  "machines": [
+    {
+      "name": "Cakewalk (USA).zip",
+      "description": "Cakewalk (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Cosmic Swarm (USA).zip",
+      "description": "Cosmic Swarm (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Smurf - Rescue in Gargamel's Castle (USA).zip",
+      "description": "Smurf - Rescue in Gargamel's Castle (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "O Monstro Marinho (Europe).zip",
+      "description": "O Monstro Marinho (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gauntlet (USA).zip",
+      "description": "Gauntlet (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sword of Saros (USA).zip",
+      "description": "Sword of Saros (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Millipede (USA).zip",
+      "description": "Millipede (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Jawbreaker (USA).zip",
+      "description": "Jawbreaker (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Jungle Hunt (USA).zip",
+      "description": "Jungle Hunt (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Master Builder (USA).zip",
+      "description": "Master Builder (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Midnight Magic (USA).zip",
+      "description": "Midnight Magic (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Masters of the Universe - The Power of He-Man (USA).zip",
+      "description": "Masters of the Universe - The Power of He-Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Carnival (USA).zip",
+      "description": "Carnival (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Cosmic Ark (USA).zip",
+      "description": "Cosmic Ark (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "StarMaster (USA).zip",
+      "description": "StarMaster (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Donkey Kong (USA).zip",
+      "description": "Donkey Kong (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Secret Quest (USA).zip",
+      "description": "Secret Quest (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Red Sea Crossing (USA).zip",
+      "description": "Red Sea Crossing (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sub-Scan (USA).zip",
+      "description": "Sub-Scan (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Surround ~ Chase (USA).zip",
+      "description": "Surround ~ Chase (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Zoo Fun (USA).zip",
+      "description": "Zoo Fun (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Base Attack (USA).zip",
+      "description": "Base Attack (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mogul Maniac (USA).zip",
+      "description": "Mogul Maniac (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Turmoil (USA).zip",
+      "description": "Turmoil (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Amidar (USA).zip",
+      "description": "Amidar (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Custer's Revenge (USA).zip",
+      "description": "Custer's Revenge (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mr. Do!'s Castle (USA).zip",
+      "description": "Mr. Do!'s Castle (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Freeway (USA).zip",
+      "description": "Freeway (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Adventure (USA).zip",
+      "description": "Adventure (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fast Food (USA).zip",
+      "description": "Fast Food (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "RealSports Football (USA).zip",
+      "description": "RealSports Football (USA, Europe) (En,Fr,De,Es,It)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Piece o' Cake (USA).zip",
+      "description": "Piece o' Cake (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Entombed (USA).zip",
+      "description": "Entombed (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Reactor (USA).zip",
+      "description": "Reactor (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pressure Cooker (USA).zip",
+      "description": "Pressure Cooker (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Armor Ambush (USA).zip",
+      "description": "Armor Ambush (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "MotoRodeo (USA).zip",
+      "description": "MotoRodeo (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Time Pilot (USA).zip",
+      "description": "Time Pilot (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bermuda Triangle (USA).zip",
+      "description": "Bermuda Triangle (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gas Hog (USA).zip",
+      "description": "Gas Hog (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "River Raid (USA).zip",
+      "description": "River Raid (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Crackpots (USA).zip",
+      "description": "Crackpots (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Room of Doom (USA).zip",
+      "description": "Room of Doom (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dragonstomper (USA).zip",
+      "description": "Dragonstomper (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Time Warp (USA).zip",
+      "description": "Time Warp (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Suicide Mission (USA).zip",
+      "description": "Suicide Mission (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Demons to Diamonds (USA).zip",
+      "description": "Demons to Diamonds (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Backgammon (USA).zip",
+      "description": "Backgammon (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Front Line (USA).zip",
+      "description": "Front Line (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Super Challenge Baseball (USA).zip",
+      "description": "Super Challenge Baseball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Skiing (USA).zip",
+      "description": "Skiing (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Cosmic Creeps (USA).zip",
+      "description": "Cosmic Creeps (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Winter Games (USA).zip",
+      "description": "Winter Games (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Berenstain Bears (USA).zip",
+      "description": "Berenstain Bears (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Super Football (USA).zip",
+      "description": "Super Football (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sky Jinks (USA).zip",
+      "description": "Sky Jinks (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Venture (USA).zip",
+      "description": "Venture (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Beat 'Em & Eat 'Em (USA).zip",
+      "description": "Beat'Em &amp; Eat'Em (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Cross Force (USA).zip",
+      "description": "Cross Force (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Eli's Ladder (USA).zip",
+      "description": "Eli's Ladder (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Air Raid (USA).zip",
+      "description": "Air Raid (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Kung-Fu Master (USA).zip",
+      "description": "Kung-Fu Master (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tapeworm (USA).zip",
+      "description": "Tapeworm (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Congo Bongo (USA).zip",
+      "description": "Congo Bongo (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Flag Capture ~ Capture (USA).zip",
+      "description": "Flag Capture ~ Capture (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Checkers (USA).zip",
+      "description": "Checkers (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Lilly Adventure (USA).zip",
+      "description": "Lilly Adventure (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Rescue Terra I (USA).zip",
+      "description": "Rescue Terra I (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tunnel de L'Estace, Le (Europe).zip",
+      "description": "Tunnel de L'Espace, Le (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Moonsweeper (USA).zip",
+      "description": "Moonsweeper (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Death Trap (USA).zip",
+      "description": "Death Trap (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gremlins (USA).zip",
+      "description": "Gremlins (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dodge 'Em ~ Dodger Cars (USA).zip",
+      "description": "Dodge 'Em ~ Dodger Cars (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Threshold (USA).zip",
+      "description": "Threshold (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Solaris (USA).zip",
+      "description": "Solaris (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Berzerk (USA).zip",
+      "description": "Berzerk (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Submarine Commander (USA).zip",
+      "description": "Submarine Commander (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Skate Boardin' (USA).zip",
+      "description": "Skate Boardin' (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Space Shuttle - A Journey into Space (USA).zip",
+      "description": "Space Shuttle - A Journey into Space (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bachelor Party ~ Gigolo (USA).zip",
+      "description": "Bachelor Party (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bridge (USA).zip",
+      "description": "Bridge (USA) (v1.1)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Frogger (USA).zip",
+      "description": "Frogger (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Human Cannonball ~ Cannon Man (USA).zip",
+      "description": "Human Cannonball ~ Cannon Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ms. Pac-Man (USA).zip",
+      "description": "Ms. Pac-Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Video Life (USA).zip",
+      "description": "Video Life (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Home Run ~ Baseball (USA).zip",
+      "description": "Home Run ~ Baseball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Seahawk (Europe).zip",
+      "description": "Seahawk (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Desert Falcon (USA).zip",
+      "description": "Desert Falcon (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dark Chambers (USA).zip",
+      "description": "Dark Chambers (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Racing Car (USA).zip",
+      "description": "Racing Car (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "MegaBoy (USA).zip",
+      "description": "MegaBoy (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Chuck Norris Superkicks (USA).zip",
+      "description": "Chuck Norris Superkicks (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mountain King (USA).zip",
+      "description": "Mountain King (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Donkey Kong Junior (USA).zip",
+      "description": "Donkey Kong Junior (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Towering Inferno (USA).zip",
+      "description": "Towering Inferno (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pitfall II - Lost Caverns (USA).zip",
+      "description": "David Crane's Pitfall II - Lost Caverns (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "London Blitz (USA).zip",
+      "description": "London Blitz (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Spike's Peak (USA).zip",
+      "description": "Spike's Peak (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Frog Demo (Europe).zip",
+      "description": "Frog Demo (Europe) (Demo)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Demolition Herby (USA).zip",
+      "description": "Demolition Herby (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Spacechase (USA).zip",
+      "description": "Spacechase (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Warlords (USA).zip",
+      "description": "Warlords (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Malagai (USA).zip",
+      "description": "Malagai (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sky Skipper (USA).zip",
+      "description": "Sky Skipper (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tennis (USA).zip",
+      "description": "Tennis (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Space Attack (USA).zip",
+      "description": "Space Attack (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Up 'n Down (USA).zip",
+      "description": "Up 'n Down (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Voyager (USA).zip",
+      "description": "Star Voyager (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "32 in 1 Game Cartridge (Europe).zip",
+      "description": "32 in 1 Game Cartridge (Europe, Australia)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Spy Hunter (USA).zip",
+      "description": "Spy Hunter (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Trek - Strategic Operations Simulator (USA).zip",
+      "description": "Star Trek - Strategic Operations Simulator (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bobby geht Heim (Europe).zip",
+      "description": "Bobby Is Going Home (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Othello (USA).zip",
+      "description": "Othello (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Phantom Tank (Europe).zip",
+      "description": "Phantom Tank (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Chopper Command (USA).zip",
+      "description": "Chopper Command (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Frostbite (USA).zip",
+      "description": "Frostbite (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Taz (USA).zip",
+      "description": "Taz (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Stronghold (USA).zip",
+      "description": "Stronghold (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ghostbusters II (Europe).zip",
+      "description": "Ghostbusters II (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Private Eye (USA).zip",
+      "description": "Private Eye (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Crypts of Chaos (USA).zip",
+      "description": "Crypts of Chaos (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Peter Penguin (Europe).zip",
+      "description": "Peter Penguin (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "No Escape! (USA).zip",
+      "description": "No Escape! (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Seaquest (USA).zip",
+      "description": "Seaquest (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Nuts (Europe).zip",
+      "description": "Nuts (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Skindiver (Europe).zip",
+      "description": "Skindiver (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Escape from the Mindmaster (USA).zip",
+      "description": "Escape from the Mindmaster (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Fox (USA).zip",
+      "description": "Star Fox (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Super Cobra (USA).zip",
+      "description": "Super Cobra (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Video Olympics ~ Pong Sports (USA).zip",
+      "description": "Video Olympics ~ Pong Sports (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mangia' (USA).zip",
+      "description": "Mangia' (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Commando Raid (USA).zip",
+      "description": "Commando Raid (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Forest (Europe).zip",
+      "description": "Forest (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Radar (USA).zip",
+      "description": "Radar (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Wizard of Wor (USA).zip",
+      "description": "Wizard of Wor (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bowling (USA).zip",
+      "description": "Bowling (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Robot Tank (USA).zip",
+      "description": "Robot Tank (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Oscar's Trash Race (USA).zip",
+      "description": "Oscar's Trash Race (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Encounter at L-5 (USA).zip",
+      "description": "Encounter at L-5 (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Wars - Return of the Jedi - Death Star Battle (USA).zip",
+      "description": "Star Wars - Return of the Jedi - Death Star Battle (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Karate (USA).zip",
+      "description": "Karate (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Snoopy and the Red Baron (USA).zip",
+      "description": "Snoopy and the Red Baron (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Video Jogger (USA).zip",
+      "description": "Video Jogger (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Halloween (USA).zip",
+      "description": "Halloween (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Hell Driver (Europe).zip",
+      "description": "Hell Driver (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pharaoh's Curse (Europe).zip",
+      "description": "Pharaoh's Curse (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sea Monster (USA).zip",
+      "description": "Sea Monster (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Panda Chase (Europe).zip",
+      "description": "Panda Chase (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).zip",
+      "description": "Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Street Racer ~ Speedway II (USA).zip",
+      "description": "Street Racer ~ Speedway II (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Riddle of the Sphinx (USA).zip",
+      "description": "Riddle of the Sphinx (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Color Bar Generator (USA).zip",
+      "description": "Color Bar Generator (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "RealSports Tennis (USA).zip",
+      "description": "RealSports Tennis (USA, Europe) (En,Fr,De,Es,It)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Aliens Return (Europe).zip",
+      "description": "Alien's Return (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Polaris (USA).zip",
+      "description": "Polaris (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mega Force (USA).zip",
+      "description": "Mega Force (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Combat ~ Tank-Plus (USA).zip",
+      "description": "Combat ~ Tank-Plus (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "SwordQuest - WaterWorld (USA).zip",
+      "description": "SwordQuest - WaterWorld (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tomarc the Barbarian (USA).zip",
+      "description": "Tomarc the Barbarian (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Glacier Patrol (USA).zip",
+      "description": "Glacier Patrol (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Deadly Duck (USA).zip",
+      "description": "Deadly Duck (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Title Match Pro Wrestling (USA).zip",
+      "description": "Title Match Pro Wrestling (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tooth Protectors (USA).zip",
+      "description": "Tooth Protectors (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Slot Machine ~ Slots (USA).zip",
+      "description": "Slot Machine ~ Slots (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Alpha Beam with Ernie (USA).zip",
+      "description": "Alpha Beam with Ernie (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Wars - Jedi Arena (USA).zip",
+      "description": "Star Wars - Jedi Arena (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pete Rose Baseball (USA).zip",
+      "description": "Pete Rose Baseball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Codebreaker (USA).zip",
+      "description": "Codebreaker (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Wall Break (Europe).zip",
+      "description": "Wall Break (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Eggomania (USA).zip",
+      "description": "Eggomania (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Crash Dive (USA).zip",
+      "description": "Crash Dive (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Solar Storm (USA).zip",
+      "description": "Solar Storm (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Swordfight (USA).zip",
+      "description": "Swordfight (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Assault (USA).zip",
+      "description": "Assault (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Guardian (USA).zip",
+      "description": "Guardian (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Big Bird's Egg Catch (USA).zip",
+      "description": "Big Bird's Egg Catch (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Superman (USA).zip",
+      "description": "Superman (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Stargunner (USA).zip",
+      "description": "Stargunner (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "MegaMania - A Space Nightmare (USA).zip",
+      "description": "MegaMania - A Space Nightmare (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "G.I. Joe - Cobra Strike (USA).zip",
+      "description": "G.I. Joe - Cobra Strike (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Motocross (USA).zip",
+      "description": "Motocross (Europe) (Quelle)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "China Syndrome (USA).zip",
+      "description": "China Syndrome (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sir Lancelot (USA).zip",
+      "description": "Sir Lancelot (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "IQ 180 (USA).zip",
+      "description": "IQ 180 (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Ship ~ Outer Space (USA).zip",
+      "description": "Star Ship ~ Outer Space (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Rampage! (USA).zip",
+      "description": "Rampage! (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sea Hunt ~ Scuba Diver (USA).zip",
+      "description": "Sea Hunt ~ Scuba Diver (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Vanguard (USA).zip",
+      "description": "Vanguard (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Marauder (USA).zip",
+      "description": "Marauder (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Spider Fighter (USA).zip",
+      "description": "Spider Fighter (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Popeye (USA).zip",
+      "description": "Popeye (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Xenophobe (USA).zip",
+      "description": "Xenophobe (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Activision Decathlon, The (USA).zip",
+      "description": "Activision Decathlon, The (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pengo (USA).zip",
+      "description": "Pengo (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Springer (USA).zip",
+      "description": "Springer (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Asteroids (USA).zip",
+      "description": "Asteroids (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Obelix (USA).zip",
+      "description": "Obelix (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Phantom UFO (USA).zip",
+      "description": "Phantom UFO (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Miner 2049er - Starring Bounty Bob (USA).zip",
+      "description": "Miner 2049er - Starring Bounty Bob (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Adventures of TRON (USA).zip",
+      "description": "Adventures of TRON (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "BMX Air Master (USA).zip",
+      "description": "BMX Air Master (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dragonfire (USA).zip",
+      "description": "Dragonfire (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dancing Plate (USA).zip",
+      "description": "Dancing Plate (Europe) (Puzzy)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bump 'n' Jump (USA).zip",
+      "description": "Unknown / Modified ROM",
+      "is_complete": false,
+      "missing_count": 1
+    },
+    {
+      "name": "Basic Math ~ Math (USA).zip",
+      "description": "Basic Math (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "International Soccer (USA).zip",
+      "description": "International Soccer (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Party Mix - Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, Handcar (USA).zip",
+      "description": "Party Mix (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Radar Lock (USA).zip",
+      "description": "Radar Lock (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Steeplechase (Europe).zip",
+      "description": "Steeplechase (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mario Bros. (USA).zip",
+      "description": "Mario Bros. (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Kangaroo (USA).zip",
+      "description": "Kangaroo (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sea Battle (USA).zip",
+      "description": "Sea Battle (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Challenge (USA).zip",
+      "description": "Challenge (Canada)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Flash Gordon (USA).zip",
+      "description": "Flash Gordon (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Cosmic Commuter (USA).zip",
+      "description": "Cosmic Commuter (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Golf (USA).zip",
+      "description": "Golf (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Cat Trax (USA).zip",
+      "description": "Cat Trax (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "RealSports Volleyball (USA).zip",
+      "description": "RealSports Volleyball (USA, Europe) (En,Fr,De,Es,It)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Astroblast (USA).zip",
+      "description": "Astroblast (USA) (v1.1)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Out of Control (USA).zip",
+      "description": "Out of Control (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sssnake (USA).zip",
+      "description": "Sssnake (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dice Puzzle (USA).zip",
+      "description": "Dice Puzzle (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Laser Gates (USA).zip",
+      "description": "Laser Gates (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Moon Patrol (USA).zip",
+      "description": "Moon Patrol (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Crystal Castles (USA).zip",
+      "description": "Crystal Castles (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Condor Attack (USA).zip",
+      "description": "Condor Attack (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Revenge of the Beefsteak Tomatoes (USA).zip",
+      "description": "Revenge of the Beefsteak Tomatoes (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Frankenstein's Monster (USA).zip",
+      "description": "Frankenstein's Monster (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Airlock (USA).zip",
+      "description": "Airlock (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Math Gran Prix (USA).zip",
+      "description": "Math Gran Prix (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Strategy X (USA).zip",
+      "description": "Strategy X (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Super Baseball (USA).zip",
+      "description": "Super Baseball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Raft Rider (USA).zip",
+      "description": "Raft Rider (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Football (USA).zip",
+      "description": "Football (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Wars - The Arcade Game (USA).zip",
+      "description": "Star Wars - The Arcade Game (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Thunderground (USA).zip",
+      "description": "Thunderground (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Boxing (USA).zip",
+      "description": "Boxing (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Stampede (USA).zip",
+      "description": "Stampede (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Glib - Video Word Game (USA).zip",
+      "description": "Glib - Video Word Game (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Venetian Blinds Demo (USA).zip",
+      "description": "Venetian Blinds Demo (USA) (Demo)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mission 3,000 A.D. (USA).zip",
+      "description": "Mission 3,000 A.D. (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Boing! (USA).zip",
+      "description": "Boing! (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "SwordQuest - FireWorld (USA).zip",
+      "description": "SwordQuest - FireWorld (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ski Run (Europe).zip",
+      "description": "Ski Run (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Blueprint (USA).zip",
+      "description": "Blueprint (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fire Spinner (USA).zip",
+      "description": "Fire Spinner (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Video Chess (USA).zip",
+      "description": "Video Chess (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Crazy Climber (USA).zip",
+      "description": "Crazy Climber (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Killer Satellites (USA).zip",
+      "description": "Killer Satellites (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sky Alien (Europe).zip",
+      "description": "Sky Alien ~ Assault (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dig Dug (USA).zip",
+      "description": "Dig Dug (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Shuttle Orbiter (USA).zip",
+      "description": "Shuttle Orbiter (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Road Runner (USA).zip",
+      "description": "Road Runner (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Joust (USA).zip",
+      "description": "Joust (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Off the Wall (USA).zip",
+      "description": "Off the Wall (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Indy 500 ~ Race (USA).zip",
+      "description": "Indy 500 ~ Race (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Acid Drop (USA).zip",
+      "description": "Acid Drop (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Battlezone (USA).zip",
+      "description": "Battlezone (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Wars - The Empire Strikes Back (USA).zip",
+      "description": "Star Wars - The Empire Strikes Back (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gyruss (USA).zip",
+      "description": "Gyruss (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Space Tunnel (USA).zip",
+      "description": "Space Tunnel (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Space Jockey (USA).zip",
+      "description": "Space Jockey (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mouse Trap (USA).zip",
+      "description": "Mouse Trap (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Wall Ball (USA).zip",
+      "description": "Wall Ball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Survival Island (USA).zip",
+      "description": "Survival Island (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pooyan (USA).zip",
+      "description": "Pooyan (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fathom (USA).zip",
+      "description": "Fathom (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Smurfs Save the Day (USA).zip",
+      "description": "Smurfs Save the Day (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pharaoh's Curse (USA).zip",
+      "description": "Pharaoh's Curse (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "River Raid II (USA).zip",
+      "description": "River Raid II (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Video Reflex (USA).zip",
+      "description": "Video Reflex (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Raiders of the Lost Ark (USA).zip",
+      "description": "Raiders of the Lost Ark (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sorcerer's Apprentice (USA).zip",
+      "description": "Sorcerer's Apprentice (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Astrowar (USA).zip",
+      "description": "Astrowar (Brazil) (En) (Unl)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mission Survive (Europe).zip",
+      "description": "Mission Survive (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fast Eddie (USA).zip",
+      "description": "Fast Eddie (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Extra Terrestrials (USA).zip",
+      "description": "Extra Terrestrials (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sorcerer (USA).zip",
+      "description": "Sorcerer (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Frogs and Flies (USA).zip",
+      "description": "Frogs and Flies (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Challenge of.... Nexar, The (USA).zip",
+      "description": "Challenge of.... NEXAR, The (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mind Maze (USA).zip",
+      "description": "Mind Maze (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sneak 'n Peek (USA).zip",
+      "description": "Sneak 'n Peek (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Defender (USA).zip",
+      "description": "Defender (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Strike (USA).zip",
+      "description": "Star Strike (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "RealSports Boxing (USA).zip",
+      "description": "RealSports Boxing (USA, Europe) (En,Fr,De,Es,It)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Space Cavern (USA).zip",
+      "description": "Space Cavern (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Q-bert (USA).zip",
+      "description": "Q-bert (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Robin Hood (USA).zip",
+      "description": "Robin Hood (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bumper Bash (USA).zip",
+      "description": "Bumper Bash (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "TRON - Deadly Discs (USA).zip",
+      "description": "TRON - Deadly Discs (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gorf (USA).zip",
+      "description": "Gorf (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Blackjack (USA).zip",
+      "description": "Black Jack (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gopher (USA).zip",
+      "description": "Gopher (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Wall-Defender (USA).zip",
+      "description": "Wall-Defender (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tac-Scan (USA).zip",
+      "description": "Tac-Scan (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Trick Shot (USA).zip",
+      "description": "Trick Shot (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Stargate (USA).zip",
+      "description": "Stargate (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "SwordQuest - EarthWorld (USA).zip",
+      "description": "SwordQuest - EarthWorld (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ice Hockey (USA).zip",
+      "description": "Ice Hockey (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Buck Rogers - Planet of Zoom (USA).zip",
+      "description": "Buck Rogers - Planet of Zoom (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Quadrun (USA).zip",
+      "description": "Quadrun (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dishaster (USA).zip",
+      "description": "Dishaster (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Squeeze Box (USA).zip",
+      "description": "Squeeze Box (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Laser Blast (USA).zip",
+      "description": "Laser Blast (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Casino ~ Poker Plus (USA).zip",
+      "description": "Casino ~ Poker Plus (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Centipede (USA).zip",
+      "description": "Centipede (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sweat! The Decathalon Game (USA).zip",
+      "description": "Sweat! The Decathlon Game (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Save Our Ship (Europe).zip",
+      "description": "Save Our Ship (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ski Run (USA).zip",
+      "description": "Ski Run (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mission 3,000 A.D. (Europe).zip",
+      "description": "Mission 3000 (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Phaser Patrol (USA).zip",
+      "description": "Phaser Patrol (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "BASIC Programming (USA).zip",
+      "description": "BASIC Programming (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Jungle Fever ~ Knight on the Town (USA).zip",
+      "description": "Jungle Fever (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pitfall! - Pitfall Harry's Jungle Adventure (USA).zip",
+      "description": "Pitfall! - Pitfall Harry's Jungle Adventure (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tax Avoiders (USA).zip",
+      "description": "Tax Avoiders (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Worm War I (USA).zip",
+      "description": "Worm War I (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Great Escape (Europe).zip",
+      "description": "Great Escape (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Marine Wars (USA).zip",
+      "description": "Marine Wars (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bachelorette Party ~ Burning Desire (USA).zip",
+      "description": "Burning Desire (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Open Sesame (Europe).zip",
+      "description": "Open Sesame (Europe) (Goliath)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Nightmare (Europe).zip",
+      "description": "Nightmare (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sky Diver ~ Dare Diver (USA).zip",
+      "description": "Sky Diver ~ Dare Diver (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Barnstorming (USA).zip",
+      "description": "Barnstorming (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Name This Game (USA).zip",
+      "description": "Name This Game (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Space War ~ Space Combat (USA).zip",
+      "description": "Space War ~ Space Combat (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Treasure Below (Europe).zip",
+      "description": "Treasure Below (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Skeet Shoot (USA).zip",
+      "description": "Skeet Shoot (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Enduro (USA).zip",
+      "description": "Enduro (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "E.T. - The Extra-Terrestrial (USA).zip",
+      "description": "E.T. - The Extra-Terrestrial (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Word Zapper (USA).zip",
+      "description": "Word Zapper (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Super Challenge Football (USA).zip",
+      "description": "Super Challenge Football (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Survival Run (USA).zip",
+      "description": "Survival Run (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Earth Dies Screaming, The (USA).zip",
+      "description": "Earth Dies Screaming, The (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Demon Attack (USA) (Rev 1).zip",
+      "description": "Demon Attack (USA) (Rev 1)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "I.Q. Memory Teaser (Europe).zip",
+      "description": "I.Q. Memory Teaser (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Raumpatrouille (USA).zip",
+      "description": "Raumpatrouille (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Missile Command (USA).zip",
+      "description": "Missile Command (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fire Fighter (USA).zip",
+      "description": "Fire Fighter (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Planet Patrol (USA).zip",
+      "description": "Planet Patrol (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Slot Racers ~ Maze (USA).zip",
+      "description": "Slot Racers ~ Maze (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Stone Age (USA).zip",
+      "description": "Stone Age (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Artillery Duel (USA).zip",
+      "description": "Artillery Duel (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fantastic Voyage (USA).zip",
+      "description": "Fantastic Voyage (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Kool-Aid Man (USA).zip",
+      "description": "Kool-Aid Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Spider Maze (USA).zip",
+      "description": "Spider Maze (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tapper (USA).zip",
+      "description": "Tapper (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Plaque Attack (USA).zip",
+      "description": "Plaque Attack (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Air-Sea Battle ~ Target Fun (USA).zip",
+      "description": "Air-Sea Battle ~ Target Fun (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Oink! (USA).zip",
+      "description": "Oink! (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Astrowar (Europe).zip",
+      "description": "Missile War ~ Astro War ~ Astrowar (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Chase the Chuckwagon (USA).zip",
+      "description": "Chase the Chuck Wagon (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bank Heist (USA).zip",
+      "description": "Bank Heist (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "My Golf (Europe).zip",
+      "description": "My Golf (Germany) (En,De)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Keystone Kapers (USA).zip",
+      "description": "Keystone Kapers (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gravitar (USA).zip",
+      "description": "Gravitar (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Track and Field (USA).zip",
+      "description": "Track and Field (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Double Dragon (USA).zip",
+      "description": "Double Dragon (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Alien (USA).zip",
+      "description": "Alien (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Star Raiders (USA).zip",
+      "description": "Star Raiders (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fatal Run (USA).zip",
+      "description": "Fatal Run (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "H.E.R.O. (USA).zip",
+      "description": "H.E.R.O. (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Spitfire Attack (USA).zip",
+      "description": "Spitfire Attack (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Spider-Man (USA).zip",
+      "description": "Spider-Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Atlantis II (USA).zip",
+      "description": "Atlantis II (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "SpaceMaster X-7 (USA).zip",
+      "description": "SpaceMaster X-7 (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Infiltrate (USA).zip",
+      "description": "Infiltrate (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Parachute (Europe).zip",
+      "description": "Parachute (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "X-Man (USA).zip",
+      "description": "X-Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "3-D Tic-Tac-Toe (USA).zip",
+      "description": "3-D Tic-Tac-Toe (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "M.A.S.H (USA).zip",
+      "description": "M.A.S.H (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dice Puzzle (Europe).zip",
+      "description": "Dice Puzzle (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Roc 'n Rope (USA).zip",
+      "description": "Roc 'n Rope (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Treasure Island ~ Duck Shoot (Europe).zip",
+      "description": "Treasure Island (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mr. Postman (Europe).zip",
+      "description": "Mr. Postman (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Lady In Wading (USA).zip",
+      "description": "Lady in Wading (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mr. Postman (USA).zip",
+      "description": "Mr. Postman (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Q-bert's Qubes (USA).zip",
+      "description": "Q-bert's Qubes (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "RealSports Baseball (USA).zip",
+      "description": "RealSports Baseball (USA, Europe) (En,Fr,De,Es,It)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ghost Manor (USA).zip",
+      "description": "Ghost Manor (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Klax (USA).zip",
+      "description": "Klax (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Outlaw ~ Gunslinger (USA).zip",
+      "description": "Outlaw ~ Gunslinger (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Basketball (USA).zip",
+      "description": "Basketball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Solar Fox (USA).zip",
+      "description": "Solar Fox (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tanks But no Tanks (USA).zip",
+      "description": "Tanks but No Tanks (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Shootin' Gallery (USA).zip",
+      "description": "Shootin' Gallery (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Picnic (USA).zip",
+      "description": "Picnic (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Frogger II - Threeedeep! (USA).zip",
+      "description": "Frogger II - Threeedeep! (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Yars' Revenge (USA).zip",
+      "description": "Yars' Revenge (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Video Pinball ~ Arcade Pinball (USA).zip",
+      "description": "Video Pinball ~ Arcade Pinball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Canyon Bomber (USA).zip",
+      "description": "Canyon Bomber (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Night Driver (USA).zip",
+      "description": "Night Driver (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Grand Prix (USA).zip",
+      "description": "Grand Prix (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dragster (USA).zip",
+      "description": "Dragster (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Time Warp (Europe).zip",
+      "description": "Time Warp (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Great Escape (USA).zip",
+      "description": "Great Escape (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sentinel (USA).zip",
+      "description": "Sentinel (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Miniature Golf ~ Arcade Golf (USA).zip",
+      "description": "Miniature Golf ~ Arcade Golf (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Kaboom! (USA).zip",
+      "description": "Kaboom! (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Steeplechase (USA).zip",
+      "description": "Steeplechase (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tunnel Runner (USA).zip",
+      "description": "Tunnel Runner (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Motocross Racer (USA).zip",
+      "description": "Motocross Racer (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Zaxxon (USA).zip",
+      "description": "Zaxxon (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Lost Luggage (USA).zip",
+      "description": "Lost Luggage (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gamma-Attack (USA).zip",
+      "description": "Gamma-Attack (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Haunted House (USA).zip",
+      "description": "Haunted House (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "World End (USA).zip",
+      "description": "World End (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Commando (USA).zip",
+      "description": "Commando (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Wing War (Europe).zip",
+      "description": "Wing War (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "RealSports Soccer (USA).zip",
+      "description": "RealSports Soccer (USA, Europe) (En,Fr,De,Es,It)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "MagiCard (USA).zip",
+      "description": "MagiCard (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Quest for Quintana Roo (USA).zip",
+      "description": "Quest for Quintana Roo (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Air Raiders (USA).zip",
+      "description": "Air Raiders (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "M.A.D. (USA).zip",
+      "description": "M.A.D. (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "World End (Europe).zip",
+      "description": "World End (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tomcat - The F-14 Fighter Simulator (USA).zip",
+      "description": "Dan Kitchen's Tomcat - The F-14 Fighter Simulator (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dragon Defender (Europe).zip",
+      "description": "Dragon Defender (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Video Checkers ~ Checkers (USA).zip",
+      "description": "Video Checkers ~ Checkers (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Nuts (USA).zip",
+      "description": "Nuts (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Go Go Home Monster (USA).zip",
+      "description": "Col 'N' (Europe) (Unl)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Omega Race (USA).zip",
+      "description": "Omega Race (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Circus Atari (USA).zip",
+      "description": "Circus Atari (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Atari Video Cube (USA).zip",
+      "description": "Atari Video Cube (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Rabbit Transit (USA).zip",
+      "description": "Rabbit Transit (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fatal Run (Europe).zip",
+      "description": "Fatal Run (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ram It (USA).zip",
+      "description": "Ram It (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mr. Do! (USA).zip",
+      "description": "Mr. Do! (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sprint Master (USA).zip",
+      "description": "Sprint Master (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Wabbit (USA).zip",
+      "description": "Wabbit (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "I.Q. 180 (USA).zip",
+      "description": "I.Q. 180 (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Universal Chaos (USA).zip",
+      "description": "Universal Chaos (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dolphin (USA).zip",
+      "description": "Dolphin (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pigs in Space - Starring Miss Piggy (USA).zip",
+      "description": "Pigs in Space - Starring Miss Piggy (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Squirrel ~ O Esquilo (USA).zip",
+      "description": "Squirrel ~ O Esquilo (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Walker ~ Schussel Der Polizistenschreck (Europe).zip",
+      "description": "Walker ~ Schussel, der Polizistenschreck (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ghostbusters (USA).zip",
+      "description": "Ghostbusters (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bobby is Going Home (USA).zip",
+      "description": "Bobby Is Going Home (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Summer Games (USA).zip",
+      "description": "Summer Games (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Farmyard Fun (USA).zip",
+      "description": "Farmyard Fun (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Lock 'n' Chase (USA).zip",
+      "description": "Lock 'n' Chase (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dukes of Hazzard (USA).zip",
+      "description": "Dukes of Hazzard (USA) (Proto)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Double Dunk (USA).zip",
+      "description": "Double Dunk (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "River Patrol (USA).zip",
+      "description": "River Patrol (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Tutankham (USA).zip",
+      "description": "Tutankham (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Exocet (Europe).zip",
+      "description": "Exocet (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Krull (USA).zip",
+      "description": "Krull (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Space Invaders (USA).zip",
+      "description": "Space Invaders (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Official Frogger, The (USA).zip",
+      "description": "Official Frogger, The (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Gangster Alley (USA).zip",
+      "description": "Gangster Alley (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Dark Cavern (USA).zip",
+      "description": "Dark Cavern (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fireball (USA).zip",
+      "description": "Fireball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Championship Soccer ~ Soccer (USA).zip",
+      "description": "Championship Soccer ~ Soccer (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Snail Against Squirrel (Europe).zip",
+      "description": "Snail Against Squirrel (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Miner 2049er Volume II (USA).zip",
+      "description": "Miner 2049er Volume II (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "James Bond 007 (USA).zip",
+      "description": "James Bond 007 (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ski Hunt (Europe).zip",
+      "description": "Ski Hunt (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Racquetball (USA).zip",
+      "description": "Racquetball (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Sea Hawk (USA).zip",
+      "description": "Sea Hawk (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Crossbow (USA).zip",
+      "description": "Crossbow (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "I Want My Mommy (USA).zip",
+      "description": "I Want My Mommy (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "King Kong (USA).zip",
+      "description": "King Kong (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pick 'n' Pile (Europe).zip",
+      "description": "Pick 'n' Pile (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Porky's (USA).zip",
+      "description": "Porky's (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Super Breakout (USA).zip",
+      "description": "Super Breakout (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Galaxian (USA).zip",
+      "description": "Galaxian (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Beany Bopper (USA).zip",
+      "description": "Beany Bopper (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Action Force (USA).zip",
+      "description": "Action Man - Action Force (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Save our Ship (USA).zip",
+      "description": "Save Our Ship (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Hangman ~ Spelling (USA).zip",
+      "description": "Hangman ~ Spelling (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Music Machine, The (USA).zip",
+      "description": "Music Machine, The (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Lilly Adventure (Europe).zip",
+      "description": "Lilly Adventure (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Montezuma's Revenge - Featuring Panama Joe (USA).zip",
+      "description": "Montezuma's Revenge - Featuring Panama Joe (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pole Position (USA).zip",
+      "description": "Pole Position (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Hole Hunter (USA).zip",
+      "description": "Hole Hunter (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Final Approach (USA).zip",
+      "description": "Final Approach (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Espial (USA).zip",
+      "description": "Espial (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Stunt Man (USA).zip",
+      "description": "Stunt Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Lochjaw (USA).zip",
+      "description": "Lochjaw (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "California Games (USA).zip",
+      "description": "California Games (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Ikari Warriors (USA).zip",
+      "description": "Ikari Warriors (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Stellar Track (USA).zip",
+      "description": "Stellar Track (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "BurgerTime (USA).zip",
+      "description": "BurgerTime (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Strawberry Shortcake - Musical Match-Ups (USA).zip",
+      "description": "Strawberry Shortcake - Musical Match-Ups (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Phoenix (USA).zip",
+      "description": "Phoenix (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Cookie Monster Munch (USA).zip",
+      "description": "Cookie Monster Munch (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Coco Nuts (USA).zip",
+      "description": "Coco Nuts (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Frisco (USA).zip",
+      "description": "Frisco (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Mines of Minos (USA).zip",
+      "description": "Mines of Minos (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Brain Games (USA).zip",
+      "description": "Brain Games (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Z-Tack (USA).zip",
+      "description": "Z-Tack (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Warplock (USA).zip",
+      "description": "Warplock (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Subterranea (USA).zip",
+      "description": "Subterranea (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Pac-Man (USA).zip",
+      "description": "Pac-Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Missile Control (Europe).zip",
+      "description": "Missile Control (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Journey Escape (USA).zip",
+      "description": "Journey Escape (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Communist Mutants from Space (USA).zip",
+      "description": "Communist Mutants from Space (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Beamrider (USA).zip",
+      "description": "Beamrider (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Bugs (USA).zip",
+      "description": "Bugs (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Quick Step! (USA).zip",
+      "description": "Quick Step! (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Breakout ~ Breakaway IV (USA).zip",
+      "description": "Breakout ~ Breakaway IV (Japan, USA) (En)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Klax (Europe).zip",
+      "description": "Unknown / Modified ROM",
+      "is_complete": false,
+      "missing_count": 1
+    },
+    {
+      "name": "Surfer's Paradise - But Danger Below! (Europe).zip",
+      "description": "Surfer's Paradise - But Danger Below! (Europe)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Hunt & Score ~ Memory Match (USA).zip",
+      "description": "Hunt &amp; Score ~ Memory Match (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Apples And Dolls (USA).zip",
+      "description": "Apples and Dolls (Brazil) (En) (Unl)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fire Fly (USA).zip",
+      "description": "Fire Fly (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Cathouse Blues (USA).zip",
+      "description": "Cathouse Blues (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Atlantis (USA).zip",
+      "description": "Atlantis (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Jr. Pac-Man (USA).zip",
+      "description": "Jr. Pac-Man (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    },
+    {
+      "name": "Fishing Derby (USA).zip",
+      "description": "Fishing Derby (USA)",
+      "is_complete": true,
+      "missing_count": 0
+    }
+  ]
+}

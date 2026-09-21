@@ -1,0 +1,10 @@
+===========================================
+       MISSING ROMs CHECKLIST              
+===========================================
+
+Machine: Bump 'n' Jump (USA).zip (Unknown / Modified ROM)
+  -> Missing files / ROMs count: 1
+
+Machine: Klax (Europe).zip (Unknown / Modified ROM)
+  -> Missing files / ROMs count: 1
+
