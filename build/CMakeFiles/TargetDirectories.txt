@@ -1,3 +1,0 @@
-/home/doug/Downloads/ROManager_V2/rom_scanner/build/CMakeFiles/rom_scanner.dir
-/home/doug/Downloads/ROManager_V2/rom_scanner/build/CMakeFiles/edit_cache.dir
-/home/doug/Downloads/ROManager_V2/rom_scanner/build/CMakeFiles/rebuild_cache.dir
