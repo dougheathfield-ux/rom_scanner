@@ -10,6 +10,7 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR}/src)
 find_package(LibArchive REQUIRED)
 find_package(OpenGL REQUIRED)
 find_package(glfw3 REQUIRED)
+find_package(OpenSSL REQUIRED)
 
 # --- 2. Automatically Fetch Dear ImGui ---
 include(FetchContent)
@@ -35,6 +36,10 @@ endif()
 add_executable(rom_scanner
     src/main.cpp
     
+    # Core Engine Sources (Phase B: Steps 1 & 2)
+    src/core/FileHasher.cpp
+    src/core/DatManager.cpp
+
     # Dear ImGui Core Sources
     ${imgui_SOURCE_DIR}/imgui.cpp
     ${imgui_SOURCE_DIR}/imgui_draw.cpp
@@ -58,6 +63,7 @@ target_link_libraries(rom_scanner PRIVATE
     LibArchive::LibArchive
     glfw
     OpenGL::GL
+    OpenSSL::Crypto
 )
 
 # Platform-specific thread support for GCC/Clang background worker threads
