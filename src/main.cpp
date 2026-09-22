@@ -12,7 +12,8 @@
 #include "mame/MameEngine.hpp"
 #include "mame/MameRebuilder.hpp"
 #include "core/ArchiveHandler.hpp"
-#include "core/CRC32Calculator.hpp"
+#include "core/FileHasher.hpp"
+#include "core/DatManager.hpp"
 #include "gui/GuiManager.hpp"
 
 namespace fs = std::filesystem;
@@ -131,29 +132,29 @@ int main(int argc, char* argv[]) {
                     for (auto& c : ext) c = std::tolower(c);
 
                     if (ext == ".zip" || ext == ".7z") {
-                        std::unique_ptr<CRC32Calculator> current_crc;
+                        std::unique_ptr<FileHasher::Context> current_hasher;
 
                         ArchiveHandler::process_archive(
                             entry.path().string(),
                             [&](const std::string&) {
-                                if (current_crc) {
-                                    uint32_t final_hash = current_crc->finalize();
+                                if (current_hasher) {
+                                    HashResult res = current_hasher->finalize();
                                     std::stringstream ss;
-                                    ss << std::hex << std::setw(8) << std::setfill('0') << final_hash;
+                                    ss << std::hex << std::setw(8) << std::setfill('0') << res.crc32;
                                     std::string hex_str = ss.str();
                                     for (auto& c : hex_str) c = std::tolower(c);
                                     found_crcs.insert(hex_str);
                                 }
-                                current_crc = std::make_unique<CRC32Calculator>();
+                                current_hasher = std::make_unique<FileHasher::Context>();
                             },
                             [&](const char* data, size_t size) {
-                                if (current_crc) current_crc->update(data, size);
+                                if (current_hasher) current_hasher->update(data, size);
                             }
                         );
-                        if (current_crc) {
-                            uint32_t final_hash = current_crc->finalize();
+                        if (current_hasher) {
+                            HashResult res = current_hasher->finalize();
                             std::stringstream ss;
-                            ss << std::hex << std::setw(8) << std::setfill('0') << final_hash;
+                            ss << std::hex << std::setw(8) << std::setfill('0') << res.crc32;
                             std::string hex_str = ss.str();
                             for (auto& c : hex_str) c = std::tolower(c);
                             found_crcs.insert(hex_str);
@@ -163,19 +164,10 @@ int main(int argc, char* argv[]) {
                 else if (entry.is_directory()) {
                     for (const auto& file_entry : fs::recursive_directory_iterator(entry.path())) {
                         if (file_entry.is_regular_file()) {
-                            CRC32Calculator file_crc;
-                            std::ifstream ifs(file_entry.path(), std::ios::binary);
-                            char buffer[8192];
-                            while (ifs.read(buffer, sizeof(buffer))) {
-                                file_crc.update(buffer, ifs.gcount());
-                            }
-                            if (ifs.gcount() > 0) {
-                                file_crc.update(buffer, ifs.gcount());
-                            }
-                            uint32_t final_hash = file_crc.finalize();
+                            HashResult res = FileHasher::calculateFile(file_entry.path().string());
                             
                             std::stringstream ss;
-                            ss << std::hex << std::setw(8) << std::setfill('0') << final_hash;
+                            ss << std::hex << std::setw(8) << std::setfill('0') << res.crc32;
                             std::string crc = ss.str();
                             for (auto& c : crc) c = std::tolower(c);
                             found_crcs.insert(crc);
